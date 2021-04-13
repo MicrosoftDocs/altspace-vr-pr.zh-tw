@@ -1,0 +1,115 @@
+### YamlMime:Hub
+title: 歡迎使用 AltspaceVR！
+summary: 探索使用 AltspaceVR 擴充的 VR 事件世界。
+brand: windows
+metadata:
+  title: 歡迎使用 AltspaceVR！
+  description: 探索使用 AltspaceVR 擴充的 VR 事件世界。
+  services: mixed-reality
+  ms.service: mixed-reality
+  ms.topic: hub-page
+  author: hferrone
+  ms.author: v-hferrone
+  ms.date: 02/10/2021
+highlightedContent:
+  items:
+    - title: 開始使用
+      itemType: get-started
+      url: getting-started/system-requirements.md
+    - title: 探索 & 人員的內容
+      itemType: overview
+      url: getting-started/system-requirements.md
+    - title: 建立事件
+      itemType: how-to-guide
+      url: tutorials/creating-an-event.md
+    - title: 打造世界
+      itemType: learn
+      url: world-building/world-editor-getting-started.md
+    - title: 早期存取
+      itemType: whats-new
+      url: world-building/early-access.md
+    - title: 疑難排解
+      itemType: reference
+      url: faqs/vr-headset-mic.md
+productDirectory:
+  title: 開始使用
+  summary: 使用 AltspaceVR 來裝載事件、建立虛擬世界，以及與全球各地的遠端使用者和團體互動。
+  items:
+    - title: 設定與安裝
+      imageSrc: images/icon-discovery.png
+      links:
+        - url: getting-started/registration.md
+          text: 註冊帳戶
+        - url: getting-started/linking-microsoft-account.md
+          text: 連結 Microsoft 帳戶
+        - url: getting-started/wmr-installation.md
+          text: Windows Mixed Reality 安裝
+        - url: getting-started/wmr-controls.md
+          text: Windows Mixed Reality 控制項
+        - url: getting-started/oculus-installation.md
+          text: Oculus 的尋找安裝
+        - url: getting-started/oculus-controls.md
+          text: Oculus 的尋找安裝
+    - title: 建立 & 裝載事件
+      imageSrc: images/icon-events.png
+      links:
+        - url: tutorials/creating-an-event.md
+          text: 建立事件
+        - url: getting-started/roles.md
+          text: 事件、領域和群組中的角色
+        - url: tutorials/main-events.md
+          text: 事件需求
+        - url: faqs/scaling-audiences.md
+          text: 調整觀眾
+        - url: tutorials/multimedia-console.md
+          text: 使用多媒體主控台
+        - url: tutorials/host-tools-overview.md
+          text: 主機工具總覽
+    - title: 全球大樓
+      imageSrc: images/icon-worlds.png
+      links:
+        - url: world-building/world-editor-getting-started.md
+          text: 探索世界編輯器
+        - url: world-building/managing-worlds.md
+          text: 管理世界
+        - url: world-building/adding-custom-spawn-points.md
+          text: 新增產生點
+        - url: world-building/adding-user-abilities.md
+          text: 賦予使用者能力
+        - url: world-building/world-building-toolkit-getting-started.md
+          text: 世界建築工具組
+        - url: world-building/using-mixed-reality-extensions.md
+          text: 使用混合現實擴充功能
+additionalContent:
+  sections:
+    - title: 其他資源
+      summary: 需要協助或支援嗎？
+      items:
+        - title: 社群
+          links:
+            - text: 訂閱我們的電子報
+              url: community/newsletter-subscriptions.md
+            - text: 社區協助程式
+              url: community/community-helper-program.md
+            - text: 社區協助程式指南
+              url: community/community-helper-guide.md
+        - title: 疑難排解與支援
+          links:
+            - text: 音訊問題
+              url: faqs/vr-headset-mic.md
+            - text: 帳戶和虛擬人偶
+              url: faqs/nametags.md
+            - text: AltspaceVR 應用程式
+              url: faqs/app-version.md
+            - text: 健全狀況 & 安全性
+              url: faqs/motion-sickness.md
+            - text: 事件
+              url: faqs/front-row-events.md
+        - title: 與我們連絡
+          links:
+            - text: 開啟支援票證
+              url: community/open-support-ticket.md
+            - text: 功能要求
+              url: community/feature-requests.md
+            - text: 歸檔濫用報表
+              url: community/filing-abuse-reports.md

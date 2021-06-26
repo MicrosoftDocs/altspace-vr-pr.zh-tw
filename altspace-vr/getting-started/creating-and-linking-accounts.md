@@ -1,17 +1,26 @@
 ---
 title: 建立和連結您的 AltspaceVR 帳戶
 description: 取得逐步指示，說明如何建立新的 AltspaceVR 帳戶，以及如何將現有的 AltspaceVR 帳戶連結至 Microsoft 帳戶。
-ms.date: 05/18/2021
+ms.date: 06/25/2021
 ms.topic: article
-keywords: 註冊，帳戶，帳戶建立，帳戶連結，microsoft 帳戶，常見問題，疑難排解，2D 模式，VR 模式
-ms.openlocfilehash: f6009a868810f566590d076b3aa5606c885697b7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+keywords: 註冊，帳戶，帳戶建立，帳戶連結，microsoft 帳戶，常見問題，疑難排解，2D 模式，VR 模式，使用者名稱，顯示，名稱
+ms.openlocfilehash: ea54c18ad8316911626159045ac7cca24b6643a0
+ms.sourcegitcommit: becdc9d9de1ce09a74aaf57af1b9de44c8346dc2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961217"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "112975837"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>建立和連結您的 AltspaceVR 帳戶
+
+## <a name="disclaimer-regarding-account-linking"></a>關於帳戶連結的免責聲明
+
+以下是您可以用來建立及連結 AltspaceVR 帳戶的不同方式。
+
+建立或更新您的帳戶時，請記住，仍有一些需要 AltspaceVR 「密碼」的功能。
+
+如果您已建立具有 MSA 的帳戶，但沒有 AltspaceVR 密碼，請登入 https://www.altvr.com/ ，移至您的設定檔，然後按一下 [登出並取得新密碼]。
+
 
 ## <a name="how-to-create-an-account-in-vr"></a>如何在 VR 中建立帳戶
 
@@ -88,9 +97,11 @@ ms.locfileid: "112961217"
 
 **如何變更我的使用者名稱或顯示名稱？**
 
-如果您想要變更與您的帳戶相關聯的使用者名稱，請將 [票證傳送給我們](https://help.altvr.com/hc/requests/new)。 請務必包含與您的帳戶相關聯的電子郵件、您目前的名稱，以及您想要在未來使用的使用者名稱。
+若要變更您的使用者 **名稱或顯示名稱**，請登入 altvr.com，在右上方選取您的設定檔圖示、使用者設定檔、編輯，然後更新您的使用者名稱或顯示名稱。 
 
-若要變更 **顯示名稱**，請登入 altvr.com，並選取右上方的設定檔圖示、使用者設定檔、編輯和更新顯示名稱。
+*注意：您只能變更您的使用者名稱一次。屆時，您將必須提交支援票證。*
+
+如果您想要變更與您的帳戶相關聯的使用者名稱，請將 [票證傳送給我們](https://help.altvr.com/hc/requests/new)。 請務必包含與您的帳戶相關聯的電子郵件、您目前的名稱，以及您想要在未來使用的使用者名稱。
 
 **我的功能表是空白的，我無法註冊，我該怎麼做？**
 

@@ -4,12 +4,12 @@ description: 使用我們的策劃檢查點旅程，開始在 AltspaceVR 平臺�
 ms.date: 03/29/2021
 ms.topic: article
 keywords: altspace，虛擬實境，活動，世界大樓，教學課程
-ms.openlocfilehash: 4eee1f00e76acca16323cb76c576307a33d50796
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: cf5217e54e17b37f00e921468d82585d8bb580d7
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212360"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923055"
 ---
 # <a name="exploring-altspacevr"></a>探索 AltspaceVR
 
@@ -27,8 +27,7 @@ AltspaceVR 是適用于虛擬實境的領導社交平臺。 AltspaceVR 會使用
 | --- | --- |
 | [系統需求](getting-started/system-requirements.md) | 請確定您有適當的工具和系統需求，才能開始使用 |
 | 安裝 [Windows Mixed Reality](getting-started/wmr-installation.md) 或 [Oculus 的追求](getting-started/oculus-installation.md)| 下載並安裝最新的 Windows Mixed Reality 或 Oculus 的尋找應用程式 |
-| [註冊 AltspaceVR 帳戶](getting-started/registration.md) | 在 AltspaceVR 應用程式中直接建立並註冊帳戶 |
-| [連結您的 Microsoft 帳戶](getting-started/linking-microsoft-account.md) | 整合您的 Microsoft 帳戶，透過單一登入存取您最愛的 Microsoft 產品和服務 |
+| [建立並連結 AltspaceVR 帳戶](getting-started/creating-and-linking-accounts.md) | 在 AltspaceVR 應用程式中直接建立並註冊帳戶，並將其連結至您的 Microsoft 帳戶|
 
 ## <a name="2-getting-comfortable"></a>2. 習慣
 

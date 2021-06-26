@@ -2,7 +2,7 @@
   href: index.yml
 - name: 探索 AltspaceVR
   href: journey.md
-- name: 開始使用
+- name: 使用者入門
   expanded: true
   items:
     - name: 系統需求
@@ -11,12 +11,8 @@
       href: getting-started/wmr-installation.md
     - name: Oculus 進行中/尋找2安裝
       href: getting-started/oculus-installation.md
-    - name: 帳戶建立
-      items:
-        - name: 註冊帳戶
-          href: getting-started/registration.md
-        - name: 連結 Microsoft 帳戶
-          href: getting-started/linking-microsoft-account.md
+    - name: 建立和連結帳戶
+      href: getting-started/creating-and-linking-accounts.md
     - name: 輸入控制項
       items:
         - name: Windows Mixed Reality 控制項
@@ -67,6 +63,8 @@
           href: tutorials/interactable-spawner.md
         - name: Teleporters
           href: tutorials/teleporting.md
+        - name: 錄製和即時串流
+          href: tutorials/recording-and-live-streaming.md
     - name: 裝載工具
       items:
         - name: 概觀
@@ -103,6 +101,10 @@
           items:
             - name: 'Unity 上載工具 (的世界建築工具組) '
               href: world-building/world-building-toolkit-getting-started.md
+            - name: 將內容更新至最新的 Unity 版本
+              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: 行動效能優化指南
+              href: world-building/unity-mobile-performance-guide.md
             - name: 使用混合現實擴充功能
               href: world-building/using-mixed-reality-extensions.md
             - name: 上傳套件
@@ -143,6 +145,8 @@
               href: faqs/nametags.md
             - name: 如何? 變更我的帳戶資訊？
               href: faqs/updating-email-address.md
+            - name: 如何? 取消連結並重新連結我的帳戶嗎？
+              href: faqs/unlinking-and-relinking-accounts.md
         - name: AltspaceVR 應用程式
           items:
             - name: 如何? 尋找 AltspaceVR 應用程式版本？

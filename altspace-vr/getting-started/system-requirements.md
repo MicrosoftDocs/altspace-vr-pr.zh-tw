@@ -1,15 +1,15 @@
 ---
 title: 最低系統需求
 description: 隨時掌握最新的 AltspaceVR 系統需求，其位於前端掛接顯示器、Oculus Rift 和 HTC Vive 裝置上。
-ms.date: 03/11/2021
+ms.date: 06/03/2021
 ms.topic: article
 keywords: 需求、前端掛接的顯示器、oculus rift、htc vive、windows 2d 模式
-ms.openlocfilehash: 2220b876568fa2f5f253c08120d7e5cf0a2e5c50
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: db76d3594102d292d0d6f3741222b92a1677640a
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212329"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923155"
 ---
 # <a name="minimum-system-requirements"></a>最低系統需求
 

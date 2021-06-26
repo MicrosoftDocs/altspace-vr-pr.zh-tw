@@ -4,12 +4,12 @@ description: 瞭解如何使用 AltspaceVR 應用程式、設定和用戶端記�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 應用程式版本
-ms.openlocfilehash: 5d503d3b89cd213696dd53616c5c7e3013aeef01
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 6b710e1724b890fa7ba0eecfcd774ef63128d5b7
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212404"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923175"
 ---
 # <a name="finding-the-altspacevr-app-version"></a>尋找 AltspaceVR 應用程式版本
 
@@ -42,8 +42,8 @@ AltspaceVR 會在應用程式啟動期間，將用戶端記錄檔中的應用程
 在 Windows 上，您可以透過 Windows 檔案總管在下列位置找到用戶端記錄檔：
 
 ```
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player.log
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player-prev.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player-prev.log
 ```
 
 每次啟動 AltspaceVR 時，都會覆寫此檔案。 ' Player. log ' 代表您最新的會話，而 ' Player-prev ' 代表前一個會話。

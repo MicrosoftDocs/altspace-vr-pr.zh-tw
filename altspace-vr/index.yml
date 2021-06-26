@@ -13,9 +13,9 @@ metadata:
   ms.date: 02/10/2021
 highlightedContent:
   items:
-    - title: 開始使用
+    - title: 使用者入門
       itemType: get-started
-      url: getting-started/system-requirements.md
+      url: journey.md
     - title: 探索 & 人員的內容
       itemType: overview
       url: getting-started/system-requirements.md
@@ -38,10 +38,8 @@ productDirectory:
     - title: 設定與安裝
       imageSrc: images/icon-discovery.png
       links:
-        - url: getting-started/registration.md
-          text: 註冊帳戶
-        - url: getting-started/linking-microsoft-account.md
-          text: 連結 Microsoft 帳戶
+        - url: getting-started/creating-and-linking-accounts.md
+          text: 建立和連結您的帳戶
         - url: getting-started/wmr-installation.md
           text: Windows Mixed Reality 安裝
         - url: getting-started/wmr-controls.md
@@ -49,7 +47,7 @@ productDirectory:
         - url: getting-started/oculus-installation.md
           text: Oculus 的尋找安裝
         - url: getting-started/oculus-controls.md
-          text: Oculus 的尋找安裝
+          text: Oculus 的追求控制項
     - title: 建立 & 裝載事件
       imageSrc: images/icon-events.png
       links:

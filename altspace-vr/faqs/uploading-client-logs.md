@@ -4,12 +4,12 @@ description: 瞭解可用的用戶端記錄欄位，以及當您遇到 AltspaceV
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 用戶端記錄
-ms.openlocfilehash: 82b45859bcfb9dec6f9b7690637ec0a9e497a8dd
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: e2fe1ea8b8070ca4c7d290269974610ce84f9cea
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212388"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923165"
 ---
 # <a name="how-do-i-upload-my-client-logs"></a>如何? 上傳我的用戶端記錄？
 
@@ -31,3 +31,9 @@ AltspaceVR 用戶端應用程式會保存診斷資料的記錄，以及使用 Al
 **[上傳最後一個記錄]** 此按鈕將會從上一個會話上傳記錄。
 
 「**上傳最後一個損毀記錄**」此按鈕將會從您所遇到的最新損毀上傳更多記錄內容。
+
+## <a name="in-client-logs"></a>在用戶端記錄中
+
+您也可以從電腦取出記錄檔。 您可以在 [這裡](https://docs.microsoft.com/windows/mixed-reality/altspace-vr/faqs/app-version#in-client-logs)找到有關如何取得這些記錄檔的指示。
+
+一旦找到這些檔案，請 [開啟支援票證](https://help.altvr.com/hc/en-us/requests/new) ，並上傳您的票證要求記錄，然後再按一下 [提交]。

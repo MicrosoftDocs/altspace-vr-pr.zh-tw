@@ -4,12 +4,12 @@ description: 瞭解如何使用 Unity 場景範本搭配全球建築工具組來
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 工具箱
-ms.openlocfilehash: cf4660f46d93ca5c5f23de3f567ff04b12519617
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3b41f02aec1077a37b95a6826c105e1cd31974e3
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211857"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923075"
 ---
 # <a name="introducing-the-world-building-toolkit"></a>全球建築工具組簡介
 
@@ -20,12 +20,12 @@ ms.locfileid: "107211857"
 
 ![範例世界](images/unity-uploader-img-01.png)
 
-## <a name="setup"></a>設定
+## <a name="setup"></a>安裝程式
 
 1. 加入 [官方的 AltspaceVR 但是](https://discordapp.com/invite/altspacevr) ，並造訪 #world 大樓頻道-朋友不會讓朋友單獨建立世界。
 2. 閱讀我們的 [世界大樓開始使用指南](world-building-getting-started.md) 以瞭解基本概念
-3. [安裝 Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) 並安裝 **unity 2019.4.2 f1**。 除非您完全符合此版本，否則上載者將無法運作。 如果您沒有帳戶，您將需要免費的 Unity 帳戶，並選擇 [ **個人** ]，因為這樣做可讓您享受更多樂趣！ 在安裝期間，請確定勾選 [ **Android 組建** ] 選項，並停用自動更新。
-4. [下載最新的 Unity 上載者](https://aka.ms/AsvrCommunityUploader)
+3. [安裝 Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) 並安裝 **unity 2020.3.9**。 除非您完全符合此版本，否則上載者將無法運作。 如果您沒有帳戶，您將需要免費的 Unity 帳戶，並選擇 [ **個人** ]，因為這樣做可讓您享受更多樂趣！ 在安裝期間，請確定勾選 [ **Android 組建** ] 選項，並停用自動更新。
+4. [下載最新的 Unity 上載者](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
 5. 在我們的網站上[建立範本](https://account.altvr.com/space_templates/new)。 將它命名 **Hello World 範本**。
 6. [建立世界](https://account.altvr.com/worlds/my) 並 **Hello World** 命名。 選取 **Hello World 範本** 作為範本。
 
@@ -35,7 +35,7 @@ ms.locfileid: "107211857"
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
-1. 開啟 Unity 中樞，並建立新的 Unity 2019.4.2 f1 專案。
+1. 開啟 Unity 中樞，並建立新的 Unity 2020.3.9 專案。
 2. 當您的專案開啟時，按兩下您所下載的檔案，以匯入上載程式， (它是 Unity 套件) 。 您現在應該會看到名為 **AltspaceVR** 的新索引標籤。 您必須針對要與 Altspace 搭配使用的每個 Unity 專案匯入套件
 3. 開啟 **功能表 > AltspaceVR > 組建設定**
 4. 使用您的 Altspace 帳號憑證登入

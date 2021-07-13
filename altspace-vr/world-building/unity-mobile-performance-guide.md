@@ -4,12 +4,12 @@ description: 瞭解如何使用各種 Unity 屬性，讓您的世界在 Oculus �
 ms.date: 04/20/2021
 ms.topic: article
 keywords: 世界編輯器、效能、oculus、請求、unity、材質、lightmaps、stats、profiler、繪製呼叫、altspacevr、上載者
-ms.openlocfilehash: 9d6afba6fff85adfaa2ba290916f25c84c5377cd
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
+ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961207"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "113634289"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>AltspaceVR Mobile 效能指南
 
@@ -23,11 +23,11 @@ ms.locfileid: "112961207"
 * **使用行動品質著色** 器 (也就是「行動/擴散」等 ) ，請避免使用 Unity 標準著色器/.Pbr/反映探查/輕量探查，因為它們是大量作業，而探查的情況下會新增繪製呼叫。
 * 螢幕上 **小於10萬個三角形**
 * **遮蔽的剔除** 有助於減少螢幕上的多邊形，雖然有預付成本可讓遮蔽剔除啟用，因此請使用 [診斷] 面板來測量 Altspace 中的畫面播放速率效果。
-* 針對場景中的所有 **材質** ，請使用 [ **Android 的覆寫** ]，並將其設定為 **RGB () 壓縮的 ASTC 6x6 組塊格式**。  將您的 Android 組建設定壓縮保留為預設 (在：檔案/組建設定/Android/材質壓縮： ' 不覆寫 ' ) ，因此 Lightmaps 不會取得 ASTC 壓縮。  藉由執行上述工作，並透過在物件之間共用資料，我們會嘗試將場景的 unity 套件保持在 **Android 的 10-20 MB** 左右。
+* 針對場景中的所有 **材質** ，請使用 [ **Android 的覆寫** ]，並將其設定為 **RGB () 壓縮的 ASTC 6x6 組塊格式**。  將您的 Android 組建設定壓縮為預設 (在： File/Build 設定/Android/Texture 壓縮： ' 不覆寫 ' ) ，讓 Lightmaps 不會取得 ASTC 壓縮。  藉由執行上述工作，並透過在物件之間共用資料，我們會嘗試將場景的 unity 套件保持在 **Android 的 10-20 MB** 左右。
 
 一般的目標是在裝置之間達到可接受的畫面播放速率–在 Oculus 的結果1和2中，當場景填入時，場景將會從所有有利點的 72 FPS 執行（雖然 60-72 FPS 的範圍通常是更實際的目標）。
 
-您可以在 AltspaceVR 中測量您所使用的裝置， (在 AltspaceVR 應用程式的 [ **設定/支援/顯示診斷面板/FPS** ]) 中找到的任何裝置。
+您所使用 (在 AltspaceVR 應用程式中找到的任何裝置上的畫面播放速率可透過 **設定/Support/Show 診斷面板/FPS**) 來測量。
 
 提供可用來協助您更妥善優化幕後的標準 Unity 工具：
 
@@ -81,6 +81,8 @@ ms.locfileid: "112961207"
 此外，作為基準，以下是用於螢幕畫面門效果環境的一些設定：
 
 ![Unity 中的光源視窗](images/world-building-lightmaps.png)
+
+注意：如果您使用這些設定，您可以將 Lightmapper 設定為 [GPU Lightmapper]，並將 Lightmap 大小設定為 ' 2048 '，以提供更快速的預覽 bake，然後針對最終的製作備份到 CPU 和4k。
 
 ## <a name="texture-compressionfile-size"></a>**紋理壓縮/檔案大小**
 

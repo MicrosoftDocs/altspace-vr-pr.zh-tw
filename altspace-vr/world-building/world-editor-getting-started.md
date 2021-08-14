@@ -4,12 +4,12 @@ description: 瞭解如何使用 AltspaceVR World 編輯器，在您的世界中�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 世界編輯器
-ms.openlocfilehash: 6fa55de4e95c7cfee4cc771f1fe4e7ff8c67350b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: da0bfc3f9df9ba17388dc68ce5776c6ae9433274d77511efd18b70cfc7eeffc6
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212524"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125895"
 ---
 # <a name="getting-started-with-the-world-editor"></a>開始使用世界編輯器
 
@@ -49,7 +49,7 @@ ms.locfileid: "107212524"
 
 ![切換環境按鈕以隱藏或顯示空間](images/world-editor-img-08.png)
 
-您可以使用 **切換飛行** 按鈕來啟用對抗引力的能力。 當您可以透過 skies soar 時，需要哪些專案？ 您可以使用這項功能，將「建築網站」帶到下一個層級。 飛行很簡單：只需查看您想要的方向，並使用您的熱鍵 (或控制器) 上的操縱杆即可取得。 
+您可以使用 **切換飛行** 按鈕來啟用對抗引力的能力。 當您可以 soar skies 時，神秘需要一個樣板？ 您可以使用這項功能，將「建築網站」帶到下一個層級。 飛行很簡單：只需查看您想要的方向，並使用您的熱鍵 (或控制器) 上的操縱杆即可取得。 
 
 使用您的 **環境裁剪** 按鈕，輕鬆地傳遞物件，讓您可以在3d 空間中稍微解釋一下，而不會因為您世界中的專案而產生任何問題。 可以透過專案和牆壁來裁剪，讓您可以自由移動，讓您的世界更加詳盡。  
 

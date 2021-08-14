@@ -4,12 +4,12 @@ description: 瞭解角色和能力系統，並取得在您的 AltspaceVR 領域�
 ms.date: 04/14/2021
 ms.topic: article
 keywords: 角色
-ms.openlocfilehash: 3a1d0f138b29fe545f52d851ff00062f156a860e
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: f299f637d77c989be5504532279fb42451367b4ac53095d00627f67402dd8552
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923188"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127110"
 ---
 # <a name="granting-world-roles"></a>授與世界角色
 

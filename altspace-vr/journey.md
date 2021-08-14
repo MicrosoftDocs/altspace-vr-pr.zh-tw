@@ -4,12 +4,12 @@ description: 使用我們的策劃檢查點旅程，開始在 AltspaceVR 平臺�
 ms.date: 03/29/2021
 ms.topic: article
 keywords: altspace，虛擬實境，活動，世界大樓，教學課程
-ms.openlocfilehash: cf5217e54e17b37f00e921468d82585d8bb580d7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923055"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126437"
 ---
 # <a name="exploring-altspacevr"></a>探索 AltspaceVR
 
@@ -26,7 +26,7 @@ AltspaceVR 是適用于虛擬實境的領導社交平臺。 AltspaceVR 會使用
 |  Checkpoint  |  結果  |
 | --- | --- |
 | [系統需求](getting-started/system-requirements.md) | 請確定您有適當的工具和系統需求，才能開始使用 |
-| 安裝 [Windows Mixed Reality](getting-started/wmr-installation.md) 或 [Oculus 的追求](getting-started/oculus-installation.md)| 下載並安裝最新的 Windows Mixed Reality 或 Oculus 的尋找應用程式 |
+| 安裝[Windows Mixed Reality](getting-started/wmr-installation.md)或[Oculus 的追求](getting-started/oculus-installation.md)| 下載並安裝最新的 Windows Mixed Reality 或 Oculus 的尋找應用程式 |
 | [建立並連結 AltspaceVR 帳戶](getting-started/creating-and-linking-accounts.md) | 在 AltspaceVR 應用程式中直接建立並註冊帳戶，並將其連結至您的 Microsoft 帳戶|
 
 ## <a name="2-getting-comfortable"></a>2. 習慣
@@ -35,7 +35,7 @@ AltspaceVR 是適用于虛擬實境的領導社交平臺。 AltspaceVR 會使用
 
 |  Checkpoint  |  結果  |
 | --- | --- |
-| 瞭解 [Windows Mixed Reality](getting-started/wmr-controls.md) 或 [Oculus 的尋找](getting-started/oculus-controls.md) 輸入控制項 | 在 Windows Mixed Reality 和 Oculus 的追求中熟悉虛擬控制項 |
+| 瞭解[Windows Mixed Reality](getting-started/wmr-controls.md)或[Oculus 的尋找](getting-started/oculus-controls.md)輸入控制項 | 在 Windows Mixed Reality 和 Oculus 的追求中熟悉虛擬控制項 |
 | [控制您的虛擬人偶](getting-started/avatar-controls.md) | 瞭解用來控制虛擬虛擬人偶的不同控制配置 |
 | [實用的鍵盤快速鍵](getting-started/keyboard-shortcuts.md) | 使用最新的鍵盤快速鍵隨時掌握最新狀態 |
 
@@ -87,11 +87,11 @@ AltspaceVR 是適用于虛擬實境的領導社交平臺。 AltspaceVR 會使用
 
 [!INCLUDE[](includes/troubleshooting.md)]
 
-## <a name="6-community--resources"></a>6. 團體 & 資源
+## <a name="6-community--resources"></a>6. Community & 資源
 
 AltspaceVR 是一個社區，我們希望您可以加入。 請花一分鐘的時間複習我們的社區標準、服務條款、隱私權原則，並訂閱我們的電子報，以取得所有最新消息。
 
-* [社區標準](community/community-standards.md)
+* [Community 標準](community/community-standards.md)
 * [AltspaceVR 服務條款](community/terms-of-service.md)
 * [Microsoft 隱私權原則](https://privacy.microsoft.com/privacystatement)
 * [訂閱我們的電子報](community/newsletter-subscriptions.md)

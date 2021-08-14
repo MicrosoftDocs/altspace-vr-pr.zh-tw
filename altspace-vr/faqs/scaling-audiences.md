@@ -4,12 +4,12 @@ description: 瞭解如何使用 FrontRow 功能來啟用、疑難排解及調整
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 調整，front row
-ms.openlocfilehash: 30632564da2465b3cd54a7c080e73ad835a3a514
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3b6a518a463fc373439f411d4ae75352a0343304b1fb73c8848d3bfd5fa19973
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212480"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128055"
 ---
 # <a name="scaling-your-audiences-with-frontrow-feature"></a>使用 FrontRow 功能調整觀眾
 
@@ -17,7 +17,7 @@ ms.locfileid: "107212480"
 
 FrontRow 是一種 AltspaceVR 技術，可讓整個事件在多個實例之間「鏡像」。 FrontRow 可讓您將觀眾調整至個別房間帽以外的範圍，並可在單一事件中用來容納大型觀眾。 若沒有 FrontRow，您的觀眾大小將會限制為主要環境的房間上限。
 
-## <a name="how-does-it-work"></a>運作方式
+## <a name="how-does-it-work"></a>如何運作？
 
 FrontRow 將額外的功能和功能新增至主機體驗，讓您可以充分掌控您的活動和物件。 
 
@@ -56,7 +56,7 @@ FrontRow 將額外的功能和功能新增至主機體驗，讓您可以充分�
 * 重新 **發佈**-將目前在房間內的所有來賓重新發佈到其他房間。  (適用于根本。 ) 
 * **傳送** 至其他房間。
 
-在 FrontRow 事件中，主機也會看到一些其他工具和功能（例如 **無線**）。 此按鈕位於 [ **主機工具**] 旁邊，可讓主機或仲裁者鏡像物件成員和其他參與者，以便在所有空間中都能看到這些成員。  (做為主機， **您可能也想要自行使用** 。  (Pro 提示： [使用主機區域](https://altvr.com/holiday2020/) 為區域內的任何人自動啟用無線的。 ) 
+在 FrontRow 事件中，主機也會看到一些其他工具和功能（例如 **無線**）。 此按鈕位於 [ **主機工具**] 旁邊，可讓主機或仲裁者鏡像物件成員和其他參與者，以便在所有空間中都能看到這些成員。  (做為主機， **您可能也想要自行使用** 。  (Pro 提示：[使用主機區域](https://altvr.com/holiday2020/)為區域內的任何人自動啟用無線的。 ) 
 
 查看適用于 [FrontRow 事件的主機工具總覽](../tutorials/host-tools-for-events.md) 文章，以取得 FrontRow 事件中可供主機使用的各項功能和功能。
 

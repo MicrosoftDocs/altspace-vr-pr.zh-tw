@@ -4,12 +4,12 @@ description: 瞭解如何將內容更新至最新版本的 Unity。
 ms.date: 06/4/2021
 ms.topic: article
 keywords: 套件、世界、unity、更新、著色器、上載器、疑難排解
-ms.openlocfilehash: f8a805c4b3350f2c97c43d3d48c35733ec7e9710
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a10e64b4dc19e256dcae9d61620de0140db60ccc0bf2a10dc864313f139bbd10
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961206"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126756"
 ---
 # <a name="updating-content-to-the-latest-unity-version"></a>將內容更新至最新的 Unity 版本
 
@@ -37,7 +37,7 @@ ms.locfileid: "112961206"
 
 ## <a name="storecompatibilitycheck"></a>存放區相容性檢查
 
-升級至 Unity 2020.3.9 也會影響耳機和商店組建相容性。 現在您需要從與耳機相容的存放區下載 AltspaceVR。 例如：針對 WinMR 或 Oculus 耳機，請分別從 Windows Store 或 Oculus Store 下載 AltspaceVR。 Windows Mixed Reality 使用者應從 Windows 市集中下載 AltspaceVR、從流出 SteamVR 使用者，以及從 Oculus 商店 Oculus Rift 使用者。
+升級至 Unity 2020.3.9 也會影響耳機和商店組建相容性。 現在您需要從與耳機相容的存放區下載 AltspaceVR。 例如：針對 WinMR 或 Oculus 耳機，請分別從 Windows store 或 Oculus store 下載 AltspaceVR。 Windows Mixed Reality 使用者應從 Windows 存放區下載 AltspaceVR、從串流 SteamVR 使用者，以及從 Oculus 商店 Oculus Rift 使用者。
 
 ## <a name="altspacevr-uploader-v090-upgrade-guide"></a>AltspaceVR 上載者 v 0.9.0 升級指南 
 
@@ -69,7 +69,7 @@ ms.locfileid: "112961206"
 
 6. **安裝** 上傳程式-使用 MR 功能工具來選取您的 Unity 專案，並在 AltspaceVR 標題) 下新增 AltspaceVR 上傳程式功能 (。 遵循工具中的指示。
 
-在 macOS 上，從登錄中手動下載最新 [版本，然後](https://dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging?_a=package&feed=Unity-packages&package=com.microsoft.altspacevr_uploader&protocolType=Npm&version=0.9.0&view=versions)從 Unity 編輯器的套件管理員中安裝它， (Windows > 封裝管理員 > + > 從 Tarball) 新增套件。
+在 macOS 上，從登錄中手動下載最新[版本，然後](https://dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging?_a=package&feed=Unity-packages&package=com.microsoft.altspacevr_uploader&protocolType=Npm&version=0.9.0&view=versions)從 Unity 編輯器的套件管理員 (Windows > 封裝管理員 > + > 從 tarball) 新增套件。
 
 封裝完成匯入後，[AltspaceVR] 功能表項目中應該會有熟悉的上傳視窗。
 
@@ -77,7 +77,7 @@ ms.locfileid: "112961206"
 
 1. 如果您的 WinMR 耳機有控制器或輸入問題，請確定其位於您的頭部，以適當地與目前狀態感應器互動。 這是已知的問題，Microsoft 正積極努力解決此問題。
 
-2. 檢查您的耳機和商店組建相容性。 例如，如果您使用的是 WinMR 耳機，請確定您的 AltspaceVR 組建是透過 Windows Store 取得的。
+2. 檢查您的耳機和商店組建相容性。 例如，如果您是使用 WinMR 耳機，請確定您的 AltspaceVR 組建是透過 Windows 存放區取得。
 
 3. 如果在測試期間發現您的內容只會以 VR 模式出現在一眼中，則您使用的自訂著色器可能不支援 SPI 轉譯。 您必須選擇不同的著色器，或遵循 [Unity 的 SPI 升級指南](https://docs.unity3d.com/Manual/SinglePassInstancing.html) ，手動編輯著色器並新增支援。
 
@@ -85,4 +85,4 @@ ms.locfileid: "112961206"
     1. 從 Microsoft Store 下載並安裝 Windows Mixed Reality 的 OpenXR。
         1. 開啟混合實境入口應用程式
         2. 在應用程式左下角，選取 [查看更多]
-        3. 在出現的功能表中，選取 [設定 OpenXR]。 這樣做會讓 Windows Store 從您可以安裝執行時間的地方啟動。 如果沒有出現這個功能表項目，OpenXR 可能已安裝在您的電腦上。
+        3. 在出現的功能表中，選取 [設定 OpenXR]。 這麼做會導致 Windows 存放區從您可以安裝執行時間的地方啟動。 如果沒有出現這個功能表項目，OpenXR 可能已安裝在您的電腦上。

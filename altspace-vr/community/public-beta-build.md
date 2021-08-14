@@ -4,12 +4,12 @@ description: 取得最新的 AltspaceVR Beta 組建計畫的最新消息，以�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Beta 版、搶鮮版（Beta）組建、bug
-ms.openlocfilehash: 1153a8d3f07e23556769416a33e5d45b1ea5007d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 1977fe235380ea0850162d3829905521cd2fa9778ea0443b18064a7810cf9128
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211906"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119124983"
 ---
 # <a name="public-beta-build-programs"></a>公用搶鮮版（Beta）組建程式
 

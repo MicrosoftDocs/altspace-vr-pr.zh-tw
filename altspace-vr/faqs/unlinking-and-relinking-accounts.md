@@ -4,12 +4,12 @@ description: 取得逐步指示，說明如何取消連結您的 AltspaceVR 帳�
 ms.date: 05/11/2021
 ms.topic: article
 keywords: 註冊，帳戶，帳戶連結，microsoft 帳戶，常見問題，疑難排解，MSA，AAD
-ms.openlocfilehash: 3ad57ca9becbec610bada7bcf029474a9283906a
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 2629a474b2d22402a3e89b908ae7bdee1c29f299baa458dd0139e25b2f22d4cf
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961247"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121236"
 ---
 # <a name="unlinking-and-re-linking-your-microsoft-account"></a>取消連結並 Re-Linking 您的 Microsoft 帳戶
 
@@ -45,7 +45,7 @@ ms.locfileid: "112961247"
     
 * 如果您嘗試使用 AltspaceVR 的取用者版本，您需要使用 Microsoft 帳戶。 如果您使用公司或學校帳戶，將會收到錯誤訊息，提示您改為連結至個人的 Microsoft 帳戶。 遵循上述步驟來取消連結和重新連結帳戶。 
 
-* 如果您遇到任何問題，請前往 **主功能表 > 設定 > 支援 > 上傳記錄** 檔，以提交您的記錄。
+* 如果您遇到任何問題，請前往 **主功能表 > 設定 > 支援 > Upload 記錄** 檔來提交記錄。
 
 * 在[帳戶常見問題](../getting-started/creating-and-linking-accounts.md)中尋找更多秘訣
 

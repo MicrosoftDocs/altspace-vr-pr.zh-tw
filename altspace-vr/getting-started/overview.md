@@ -4,12 +4,12 @@ description: 瞭解 AltspaceVR、混合現實擴充功能、世界編輯器，�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 全球編輯器，unity 上載者，論壇
-ms.openlocfilehash: e2277e1425af72544d2e1ed450e01a15ff537039
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 97003073facfa0f4135111fff0ed6128b42ca81b96a8a70fdebef22d8988f548
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212373"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126314"
 ---
 # <a name="getting-started-with-altspacevr"></a>開始使用 AltspaceVR
 
@@ -25,7 +25,7 @@ ms.locfileid: "107212373"
 
 您也可以：
 
-* 加入 [深入 SDK 但是社區](https://discord.com/invite/xyBcQec) ，與其他深入開發人員聊天。
+* 加入[深入 SDK 但是 Community](https://discord.com/invite/xyBcQec)與其他深入開發人員聊天。
 * [觀賞大樓 Tic-](https://www.youtube.com/watch?v=DQHrdK9JSXI&ab_channel=AltspaceVR)
 * 瞭解如何使用[Visual Studio Code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code)編輯和建立 MREs
 * 流覽 [Hello World 來源程式碼](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world)
@@ -35,7 +35,7 @@ ms.locfileid: "107212373"
 
 ## <a name="world-editor"></a>世界編輯器
 
-在 AltspaceVR 內，您可以在家庭空間中使用內建的世界編輯器。 這是開始修改空間最簡單的方式。 當您在家裡的空間時，請選取右下角的 [世界編輯器] 按鈕。 請參閱我們 [的開始與世界大樓頁面](../world-building/world-building-getting-started.md)。 您可以使用世界編輯器，將3d 物件、teleporters 和延伸模組 (MREs) ，以及變更世界 skybox。
+在 AltspaceVR 內，您可以在家庭空間中使用內建的世界編輯器。 這是開始修改空間最簡單的方式。 當您在家裡的空間時，請選取右下角的 [世界編輯器] 按鈕。 請參閱我們[的入門與世界大樓頁面](../world-building/world-building-getting-started.md)。 您可以使用世界編輯器，將3d 物件、teleporters 和延伸模組 (MREs) ，以及變更世界 skybox。
 
 如果您加入 [早期訪問計畫](../world-building/early-access.md)，您可以在 [AltspaceVR My world 頁面](https://account.altvr.com/users/sign_in)上建立更多的領域。
 

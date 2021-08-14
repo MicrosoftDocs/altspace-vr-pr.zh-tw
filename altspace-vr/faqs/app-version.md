@@ -4,12 +4,12 @@ description: 瞭解如何使用 AltspaceVR 應用程式、設定和用戶端記�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 應用程式版本
-ms.openlocfilehash: 6b710e1724b890fa7ba0eecfcd774ef63128d5b7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: fbf67a8302a67ddb916772420949cf0509a0d4a60c472711975c651862438b93
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923175"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128238"
 ---
 # <a name="finding-the-altspacevr-app-version"></a>尋找 AltspaceVR 應用程式版本
 
@@ -19,13 +19,13 @@ ms.locfileid: "112923175"
 
 若要在 AltspaceVR 中尋找應用程式版本，請流覽至 [ **設定] 功能表** ，並在左側導覽列中選取 [ **關於** ]。 這裡會報告 [應用程式版本]，如下列螢幕擷取畫面所示。
 
-![設定功能表開啟時開啟 [關於面板開啟]](images/app-version-img-01.png)
+![開啟時開啟的 [關於] 面板開啟的設定功能表](images/app-version-img-01.png)
 
-## <a name="in-windows-system-settings"></a>在 Windows 系統設定中
+## <a name="in-windows-system-settings"></a>在 Windows 系統設定
 
-如果您是透過 Microsoft Store 安裝 AltspaceVR，您可以另外在 Windows 系統設定中尋找應用程式版本。  如果您無法成功登入用戶端，此案例適合用來報告應用程式版本。
+如果您是透過 Microsoft Store 安裝 AltspaceVR，您可以在 Windows 系統設定中另外尋找應用程式版本。  如果您無法成功登入用戶端，此案例適合用來報告應用程式版本。
 
-若要在 [Windows 系統設定] 中尋找應用程式版本，請開啟 [ **開始] 功能表**，輸入 **應用程式 & 功能**]，然後選取結果。 流覽至應用程式清單中的 **AltspaceVR** 。 以滑鼠左鍵按一下 [AltspaceVR]，然後從出現的功能表中選取 [ **Advanced Options** ]。
+若要在 Windows 系統設定中尋找應用程式版本，請開啟 [**開始] 功能表**，輸入 **應用程式 & 功能**，然後選取結果。 流覽至應用程式清單中的 **AltspaceVR** 。 以滑鼠左鍵按一下 [AltspaceVR]，然後從出現的功能表中選取 [ **Advanced Options** ]。
 
 ![[應用程式和功能] 功能表開啟時已醒目提示 [advanced] 選項](images/app-version-img-02.png)
 
@@ -39,7 +39,7 @@ AltspaceVR 會在應用程式啟動期間，將用戶端記錄檔中的應用程
 
 ## <a name="windows"></a>Windows
 
-在 Windows 上，您可以透過 Windows 檔案總管在下列位置找到用戶端記錄檔：
+在 Windows 上，您可以透過 Windows 檔案總管找到用戶端記錄檔：
 
 ```
 %userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log

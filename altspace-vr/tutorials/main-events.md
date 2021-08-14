@@ -4,12 +4,12 @@ description: 瞭解如何建立和設定 AltspaceVR 的主要事件，並同時�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 活動
-ms.openlocfilehash: 44581d900b5853d051198cd2e2fefe6bc2d04a18
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2df15e01be4dbf0b440574da0e6931f1f11ec26fc2ca451ad98858db624e1f1f
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212472"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126287"
 ---
 # <a name="main-events-and-maximizing-event-visibility"></a>主要事件和最大化事件可見度
 
@@ -27,7 +27,7 @@ ms.locfileid: "107212472"
 
 ## <a name="what-is-the-all-tab-of-the-calendar"></a>行事曆的 [全部] 索引標籤是什麼？
 
-[全部] 索引標籤是 AltspaceVR 中所有公用事件的總清單。 它通常會包含像是即席遊戲的快速事件，像是現實或 AltQuiz。 未列為主要事件的公用事件仍可在 [全部] 索引標籤下找到，但不視為符合促銷資格。
+[全部] 索引標籤是 AltspaceVR 中所有公用事件的總清單。 它通常會包含即席遊戲的快速事件，例如遊戲，而不全像投影是實際或 AltQuiz。 未列為主要事件的公用事件仍可在 [全部] 索引標籤下找到，但不視為符合促銷資格。
 
 ## <a name="how-can-my-event-become-a-main-event"></a>我的活動如何變成主要事件？
 
@@ -41,10 +41,10 @@ ms.locfileid: "107212472"
 * 建立者/主機的 AltspaceVR 帳戶必須至少為一周 (七天) 舊帳戶。
 * 建立者/主機必須至少裝載一個 (1) 先前的公用事件。
 * 建立者/主機必須有 AltspaceVR 透過任何/所有相關的 (方法（如社交媒體、電子報、Oculus 事件等）來提升其活動的。
-* 如果發現事件不具效能、包含不當的內容，或違反我們的「社區標準/服務條款」，則主機必須遵循 AltspaceVR 員工發出的任何要求/編輯，以維護主要事件指定。
+* 如果發現事件不具效能、包含不當內容，或違反我們的 Community 標準/服務條款，則主機必須遵循 AltspaceVR 員工發出的任何要求/編輯，以維護主要事件指定。
 * 來源世界必須通過診斷檢查： (好用資料表內的任何/所有度量都是允許的。 錯誤資料表內的計量不是。 ) 
 
-| Diagnostic | 良好的 (將會通過)  | 好 (將會通過)  | 錯誤的 (將會失敗)  |
+| 診斷 | 良好的 (將會通過)  | 好 (將會通過)  | 錯誤的 (將會失敗)  |
 |---|---|---|---|
 | 物件 | 0-200 | 201-500 | 501 + |
 | 包 | 0-5 | 6-10 | 11 + |
@@ -54,8 +54,8 @@ ms.locfileid: "107212472"
 |  (mobile) 的範本 | 0-10MB | 11-20 MB | 21 + MB |
 | Skybox (mobile)  | 0-2MB | 3-5 MB | 6 + MB |
 | 遺漏套件 |  |  | 任意 |
-| 遺漏構件 |  |  | 任意 |
-| 不正確構件 |  |  | 任意 |
+| 遺漏 Artifacts |  |  | 任意 |
+| 不正確 Artifacts |  |  | 任意 |
 
 > [!IMPORTANT]
 > 每個人最多可列出一天最多3個主要事件的主機。  

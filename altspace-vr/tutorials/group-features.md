@@ -4,19 +4,19 @@ description: 瞭解如何建立私人的 VR 空間，以使用「群組事件」
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 群組，私用事件，patreon，eventbrite，疑難排解
-ms.openlocfilehash: f53bddd27a573016d882ee33086867dc51915658
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 0599792b6dd5ea73a3f4c15b00cdee36dea5ceaab3fc646ef0f72e965e0cbad2
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211881"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126558"
 ---
 # <a name="using-the-groups-feature-to-create-private-events"></a>使用群組功能建立私用事件
 
 我們的群組功能可讓主機建立可供來賓清單開啟的 VR 空間。 主機可以手動新增任何想要授與存取權給其空間的 AltspaceVR 使用者名稱/電子郵件。 您可以使用這項功能來裝載活動、會議和會議：
 
 > [!NOTE]
-> 在您可以存取「群組」之前，您必須先登入 altvr.com、編輯網站上的使用者設定檔，然後選取 [搶先存取]，以選擇搶先存取功能。 或者，在 AltspaceVR 應用程式中，[設定]、[一般]、[參與早期訪問計畫]。
+> 在您可以存取「群組」之前，您必須先登入 altvr.com、編輯網站上的使用者設定檔，然後選取 [搶先存取]，以選擇搶先存取功能。 或者，在 AltspaceVR 應用程式中，設定一般，參與早期的存取計畫。
 
 1. 在您的瀏覽器中，移至  [https://altvr.com](https://altvr.com)   並登入您的帳戶。 
 2. 尋找 **更多** 下拉式功能表。
@@ -87,7 +87,7 @@ ms.locfileid: "107211881"
 
 ### <a name="importing-a-list"></a>匯入清單
 
-Patreon 和 Eventbrite 等平臺可讓您將 * (.csv 檔案匯出為具有專用 "e-mail" 資料行的逗號分隔值) 。您可以選取此資料行來使用。當您使用此功能之後，這些步驟大多相同，它們是：  
+Patreon 和 Eventbrite 等平臺可讓您匯出具有專用「電子郵件」資料行的 * .csv 檔案， (逗點分隔值) 。您可以選取此資料行來使用。當您使用此功能之後，這些步驟大多相同，它們是：  
 
 1. 建立或編輯您的群組。  
 2. 尋找 [ **成員電子郵件** ] 欄位。  

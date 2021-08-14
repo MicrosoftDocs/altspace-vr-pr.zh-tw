@@ -4,12 +4,12 @@ description: 瞭解如何使用 Unity 場景範本搭配全球建築工具組來
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 工具箱
-ms.openlocfilehash: 3b41f02aec1077a37b95a6826c105e1cd31974e3
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 8b66e35509060e00b2e52d3770380d009d7060339003f534d23fdd47372a57f0
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923075"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125392"
 ---
 # <a name="introducing-the-world-building-toolkit"></a>全球建築工具組簡介
 
@@ -20,7 +20,7 @@ ms.locfileid: "112923075"
 
 ![範例世界](images/unity-uploader-img-01.png)
 
-## <a name="setup"></a>安裝程式
+## <a name="setup"></a>設定
 
 1. 加入 [官方的 AltspaceVR 但是](https://discordapp.com/invite/altspacevr) ，並造訪 #world 大樓頻道-朋友不會讓朋友單獨建立世界。
 2. 閱讀我們的 [世界大樓開始使用指南](world-building-getting-started.md) 以瞭解基本概念
@@ -31,7 +31,7 @@ ms.locfileid: "112923075"
 
 ![建立的世界畫面](images/unity-uploader-img-02.png)
 
-## <a name="upload-your-scene"></a>上傳您的場景
+## <a name="upload-your-scene"></a>Upload 您的場景
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
@@ -41,10 +41,10 @@ ms.locfileid: "112923075"
 4. 使用您的 Altspace 帳號憑證登入
 5. 選取 [**載入範本**]，然後選取 [ **Hello World 範本**]
 6. 將 cube 新增至場景並儲存。
-7. **要檢查 Windows 的組建嗎？** 然後取消核取 **Android 的組建？**
-8. 選取 [上傳]。 大約一分鐘，您應該會看到 **上傳** 完成。
+7. **要檢查組建是否有 Windows？** 並取消核取 **Android 的組建？**
+8. 選取 [上傳]。 大約一分鐘，您應該會看到 **Upload** 完成。
 9. 藉由啟動 Altspace 並從 **功能表 > 世界 > 我的世界** 來加入 **Hello World**
-10. 從 **功能表 > 設定 > 適中 > 重設空間** 重設世界
+10. 從 **功能表 > 設定 > 中等 > 重設空間** 重設世界
 11. 您應該會看到 cube。 如果您在上述影片中快速進行，您可以在最少10秒內看到變更。
 
 ## <a name="whats-supported"></a>支援的項目
@@ -52,7 +52,7 @@ ms.locfileid: "112923075"
 * 是：模型、衝突、動畫、粒子效果、音訊、skyboxes 等等
 * 否：腳本。 基於安全性考慮，包含腳本的上傳將會遭到拒絕
 * 也許：動態全球照明這類的有趣事物
-* 個別或一起針對不同的平臺上傳場景
+* 個別或一起適用于不同平臺的 Upload 場景
 * 查看 [精選領域](https://account.altvr.com/worlds/featured)，許多都是使用上傳者建立的
 
 ## <a name="tips"></a>提示
@@ -62,7 +62,7 @@ ms.locfileid: "112923075"
 
 ![已反白顯示上傳的範本面板開啟](images/unity-uploader-img-03.png)
 
-* 當您更新時，可以在世界各地。 當上傳者顯示 **上傳完成** 時，您可以重設世界以查看變更。
+* 當您更新時，可以在世界各地。 當上傳者顯示 **Upload 完成** 時，您可以重設世界以查看變更。
 * 使用簡單的場景來建立電腦的功能，應該不到1分鐘的時間，就能在 Altspace 中看到變更
 * 將您的世界設為私用且未列出，以避免分散注意力。
 * 將 cube 放置於來源，讓您可以看到人員預設會產生的位置。 上傳時隱藏 cube。
@@ -77,7 +77,7 @@ ms.locfileid: "112923075"
     * 你是在正確的世界嗎？ 您是否在上載者和世界表單中選擇正確的範本？
     * 您是否已檢查範本頁面統計資料？
 
-**上傳失敗或超時**
+**Upload 失敗或超時**
     * 最常見的上傳錯誤是 Unity 版本錯誤。 它必須完全符合所需的版本。
     * 您的上傳可能太大。 請嘗試保持電腦幕後 < 100 MB。 從小規模開始，然後建立。 Optimize、optimize、optimize。
     * 使用簡單的 cube 來試用全新的專案。

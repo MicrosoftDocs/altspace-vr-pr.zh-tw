@@ -4,12 +4,12 @@ description: 瞭解如何使用各種 Unity 屬性，讓您的世界在 Oculus �
 ms.date: 04/20/2021
 ms.topic: article
 keywords: 世界編輯器、效能、oculus、請求、unity、材質、lightmaps、stats、profiler、繪製呼叫、altspacevr、上載者
-ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
-ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
+ms.openlocfilehash: d5689e245c10ccb61abdd0aaa2327132d4374bb7e53a2eaec316d991b38378fb
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "113634289"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126952"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>AltspaceVR Mobile 效能指南
 

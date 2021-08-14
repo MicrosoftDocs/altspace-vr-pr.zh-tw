@@ -4,12 +4,12 @@ description: 瞭解如何錄製和即時串流您的 AltspaceVR 事件，以便�
 ms.date: 04/26/2021
 ms.topic: article
 keywords: 串流、錄製、影片、音訊、youtube、obs
-ms.openlocfilehash: 0bf32d8ac7e2d409eb5e2c31a9da8a878e0e5eef
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 95a742cb2bfe5c277e698175bd9f657fcac5923d181c3eeb6905004d25f81aa6
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923015"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126102"
 ---
 # <a name="recording-and-live-streaming"></a>錄製和即時串流
 
@@ -29,7 +29,7 @@ ms.locfileid: "112923015"
 ### <a name="the-slightly-longer-version"></a>稍長的版本
 
 1. 訪問 [https://obsproject.com/](https://obsproject.com/)
-2. 選取 [ **Windows** ] 以下載 OBS。 這篇文章使用 **OBS v 22.0.2**
+2. 選取 **Windows** 下載 OBS。 這篇文章使用 **OBS v 22.0.2**
 3. 安裝 OBS
 
 ### <a name="have-altspacevr-running-in-2d-mode-before-you-run-obs"></a>執行 OBS 之前，請先以2D 模式執行 AltspaceVR
@@ -49,7 +49,7 @@ ms.locfileid: "112923015"
 7. 向下滾動以捕捉資料指標： untick
 8. 選取 [OK (確定)]
 
-這應該會讓 AltspaceVR 顯示在 OBS 中。 現在，若要在 OBS 中設定下列屬性，請移至 [檔案 **> 設定**：
+這應該會讓 AltspaceVR 顯示在 OBS 中。 現在，若要在 OBS 中設定下列屬性，請移至 [檔案 **>] 設定**：
 
 |索引標籤|設定|
 |---|---|
@@ -81,10 +81,10 @@ ms.locfileid: "112923015"
 
 * 您可以比對音訊和其他使用者的音訊，讓 Mic 在錄製事件時的效果最佳。
 * 音訊的另一個問題是 OBS 的設定方式。 它會從您的電腦上捕獲所有音訊，因此，如果您要在電腦上觀賞 YouTube，則會記錄該音訊或但是通知。
-* 若只要從 AltspaceVR 錄製音訊，請移至音量混音器 (以滑鼠右鍵按一下 Windows) 右下方的喇叭圖示，並將 [系統音效]、[瀏覽器] 等靜音，但不要將 OBS 或 AltspaceVR 靜音。
+* 若只要記錄來自 AltspaceVR 的音訊，請移至 [音量 Mixer] (以滑鼠右鍵按一下 Windows) 右下角的喇叭圖示，並將 [系統音效]、[瀏覽器] 等靜音，但不要將 OBS 或 AltspaceVR 靜音。
 
 > [!IMPORTANT]
-> 請記得在錄製之後，將這些音量混音器設定重新開啟。
+> 請記得在錄製之後，將這些磁片區 Mixer 設定重新開啟。
 
 現在，流覽回 OBS，然後選取 [從檔案 **停止錄製** **>顯示錄製**]。 這會開啟包含您 OBS 影片檔案的資料夾，然後按兩下測試影片。
 
@@ -100,7 +100,7 @@ ms.locfileid: "112923015"
 ### <a name="the-slightly-longer-version"></a>稍長的版本
 
 1. 訪問 [https://obsproject.com/](https://obsproject.com/)
-2. 選取 **Windows** 以下載 OBS (這篇文章使用 OBS v 22.0.2) 
+2. 選取 **Windows** 下載 OBS (這篇文章使用 OBS v 22.0.2) 
 3. 安裝 OBS
 
 執行 OBS 之前，請先以2D 模式執行 AltspaceVR
@@ -118,12 +118,12 @@ ms.locfileid: "112923015"
 
 這應該會讓 AltspaceVR 顯示在 OBS 中。 太好了！
 
-現在在 OBS 中，移至 [檔案>設定：
+現在在 OBS 中，您將會進入檔案>設定：
 
 | 索引標籤 | 設定 |
 |---|---|
 | 一般 | 當串流 (這會將影片檔案記錄至您的電腦，以及即時串流) 時，會自動進行滴答記錄 |
-| 串流 | 資料流程類型：串流服務 <br> 服務： YouTube/YouTube 遊戲 (也可以串流至 Twitch、混音器、Facebook Live 等 ) <br>伺服器：主要 YouTube 內嵌伺服器 <br>串流金鑰：從 YouTube * * * 貼上您的串流金鑰 (請參閱下方的「在 YouTube 上設定即時串流」)  |
+| 串流 | 資料流程類型：串流服務 <br> 服務： YouTube/youtube 遊戲 (也可以串流至 Twitch、Mixer、Facebook Live 等 ) <br>伺服器：主要 YouTube 內嵌伺服器 <br>串流金鑰：從 YouTube * * * 貼上您的串流金鑰 (請參閱下方的「在 YouTube 上設定即時串流」)  |
 | 輸出 | 輸出模式：切換至 Advanced |
 | 串流 | 音訊曲目1 <br>編碼器： x264 <br>強制串流服務編碼器設定：滴答 <br>重新調整輸出：未核取 <br>速率控制： CBR <br>位元速率： 6000 (6000，適用于 60 fps) 30 fps 或9000 <br>主要畫面格間隔 = 2 <br>CPU 使用量預設值 = veryfast |
 | 記錄 | 類型：標準 <br>錄製路徑： D：/Video (流覽至您想要儲存影片檔案的位置，如果您已選取 [串流處理時自動記錄])  <br>錄製格式：有可能會在錄製時出現某些損毀的 (。如果您損毀影片仍可搭配使用 flv，請在這裡嘗試使用 flv)  <br>音訊曲目1 <br>編碼器：使用串流編碼器 |
@@ -138,9 +138,9 @@ ms.locfileid: "112923015"
 
 請參閱上面的「如何錄製電腦2D 模式的 AltspaceVR」一節中的指示，以瞭解如何使用本機錄製（而不是即時串流）來測試錄製，以及如何在錄製之前先取得攝影機照片設定。
 
-音訊的另一個問題是 OBS 的設定方式。 它會從您的電腦中捕捉所有音訊，因此，如果您要觀賞 YouTube，則會記錄該音訊、小組訊息或通知聲音。
+音訊的另一個問題是 OBS 的設定方式。 它會從您的電腦中捕捉所有音訊，因此，如果您要觀賞 YouTube，則會記錄該音訊或 Teams 的訊息或通知聲音。
 
-若只要從 AltspaceVR 錄製音訊，請移至音量混音器 (以滑鼠右鍵按一下 Windows) 右下方的喇叭圖示，並將 [系統音效]、[瀏覽器] 等靜音，但不要將 OBS 或 AltspaceVR 靜音。
+若只要記錄來自 AltspaceVR 的音訊，請移至 [音量 Mixer] (以滑鼠右鍵按一下 Windows) 右下角的喇叭圖示，並將 [系統音效]、[瀏覽器] 等靜音，但不要將 OBS 或 AltspaceVR 靜音。
 
 請不要忘記在錄製後重新開啟音訊; ) 
 
@@ -157,9 +157,9 @@ ms.locfileid: "112923015"
 「**立即串流**」方法：
 
 * 選取 [編輯] 以輸入您的即時串流資訊<br>
-* 在 [資料流程設定] 下，保留預設值<br>
+* 在 [Stream 設定下，保留預設值<br>
 *  (貼上編碼器) 的串流金鑰，請選取 [顯示] 並複製此金鑰，讓您可以將它貼到 OBS<br>
-* 開啟 OBS/Settings/Stream<br>
+* 開啟 OBS/設定/Stream<br>
 * 將串流金鑰從 YouTube 貼到 OBS 中的 [串流金鑰] 欄位<br>
 * 套用，然後確定<br>
 * 選取 [在 OBS 中啟動串流]<br>
@@ -172,14 +172,14 @@ ms.locfileid: "112923015"
 
 「**管理**」方法：
 * 選取 [排程資料流程]
-* 如果您已經設定先前的 managed 即時資料流，請建立新的或重複使用設定
-* 新增標題、日期、開始時間、描述、上傳縮圖和標記-別忘了標記 AltspaceVR： ) 
+* 如果您已經設定了先前的 managed 即時資料流，請建立新的或重複使用設定
+* [新增標題]、[日期]、[開始時間]、[描述] Upload 縮圖和標記-別忘了標記 AltspaceVR： ) 
 * 從下拉式功能表中選擇 [公用] (預設值為 [未列出] ) 
 * 使用預設值
 * 複製資料流程金鑰 (貼上編碼器) 
 * 若要查看您實際的 YouTube live stream 影片頁面，您必須選取右上方的共用圖示。 這是您的 YouTube live stream 活動連結，可在您的實際活動前以社交方式共用！
 * 立即開啟 OBS
-* 檔案/設定
+* File/設定
 * 串流
 * 將您複製的資料流程金鑰貼到 [資料流程金鑰] 欄位
 * 套用，然後確定
@@ -187,7 +187,7 @@ ms.locfileid: "112923015"
 * 回到 YouTube，您將會看到 [預覽] 視窗顯示您的串流，而上線現在會在右上方亮起。
 * 選取 [上線]
 * 您現在已經上線了！
-* 移至您的瀏覽器索引標籤，並開啟 [觀賞 Watch 頁面] 連結，以確定影片看起來不錯。 請記住，您不會聽到音訊，因為當您在 Windows 音量混音器中將音訊靜音時，就會關閉瀏覽器的音訊。 檢查手機上的音訊，或要求朋友為您檢查音訊。
+* 移至您的瀏覽器索引標籤，並開啟 [觀賞 Watch 頁面] 連結，以確定影片看起來不錯。 請記住，您不會聽到音訊，因為當您將音訊從瀏覽器中靜音時，就會關閉 Windows 磁片區 Mixer。 檢查手機上的音訊，或要求朋友為您檢查音訊。
 * 查看良好！
 * Alt-Tab 回到 AltspaceVR，將您的攝影機移 (也就是您的活動周圍) 。
 * 當您完成實況串流之後，請回到 YouTube 的 [Live Control 會議室] 頁面

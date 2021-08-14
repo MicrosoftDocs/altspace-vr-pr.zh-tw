@@ -4,12 +4,12 @@ description: 瞭解如何正確地將 3D glTF 模型匯入您的 AltspaceVR 體�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 模型、glTF、匯入、sketchfab、疑難排解
-ms.openlocfilehash: 4489f90832bd1cf85ff161caed11684257cce6ab
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 527c38fc49028258fa432445fe14a355710a18be65ee74252a8c39bc1bfe5190
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212433"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127033"
 ---
 # <a name="importing-gltf-models"></a>匯入 glTF 模型
 

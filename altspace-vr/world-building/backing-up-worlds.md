@@ -4,12 +4,12 @@ description: 瞭解如何建立、管理和疑難排解 AltspaceVR 領域的備�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 儲存
-ms.openlocfilehash: fdef692c737bf2f92db315e04556831d60c2f377
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2f4f232fd843b612563b2d7425de2b5d17720c539cc02a1493bc4b118de4f117
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211865"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125458"
 ---
 # <a name="backing-up-your-worlds"></a>備份您的世界
 
@@ -18,13 +18,13 @@ ms.locfileid: "107211865"
 ## <a name="whats-included-in-a-backup"></a>備份包含哪些內容？
 
 備份目前包含您可以使用「世界編輯器」來產生的大部分專案：
-* 構件 (套件物件) 
+* Artifacts (套件物件) 
 * 標籤
 * Teleporters
 * 產生點
 * 照片
 * 深入 SDK 應用程式
-* 原生應用程式 (例如，針對現實的全像) 
+* 原生應用程式 (例如，全像投影的實際) 
 
 不包含下列內容：
 

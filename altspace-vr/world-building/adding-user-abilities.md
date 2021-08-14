@@ -4,12 +4,12 @@ description: 瞭解如何為使用者提供 AltspaceVR 事件中的特殊功能�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 能力、使用者、角色
-ms.openlocfilehash: 7f60a9bcdd61a71cfc86373f66c702903365456d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: de03bcff2c0239ba5709e848523690c5fb5c85dc350661eca822094d21b87785
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211877"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126132"
 ---
 # <a name="adding-user-abilities"></a>新增使用者能力
 
@@ -20,11 +20,11 @@ ms.locfileid: "107211877"
 1. 在我們的網站上編輯您的世界。 請參閱 [如何? 管理我的世界？](managing-worlds.md) 以取得協助。
 2. **在 [VR > 預設內容角色**] 欄位中，向下滾動至。 您可以將滑鼠停留在綠色問號上方以查看更多詳細資料。 列出所有可能的角色。
 3. 指定所有使用者都會收到的任何角色。 每個角色都有自己的能力。
-4. 按一下 [更新]  。 使用者必須重新進入世界，才能獲得新發現的能力！
+4. 按一下 [更新]。 使用者必須重新進入世界，才能獲得新發現的能力！
 
 ## <a name="roles-and-abilities"></a>角色和能力
 
-* **試驗階段** (他們必須前往 [設定] > 輸入 > 即時，在 VR 中啟用此功能) 
+* **試驗階段** (他們必須立即前往設定 > 輸入 >，在 VR 中啟用此功能) 
 * **megaphone_only** -如果已啟用，每個人都會聽到您的 ear
 * **musical_performer** -提高音訊品質和頻寬使用量
 * **Terraformer** -存取世界編輯器

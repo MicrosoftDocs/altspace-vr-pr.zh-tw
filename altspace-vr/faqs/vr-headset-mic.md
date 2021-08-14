@@ -4,12 +4,12 @@ description: 瞭解如何在您的 Windows Mixed Reality、Oculus Rift、Oculus 
 ms.date: 03/11/2021
 ms.topic: article
 keywords: vr、windows
-ms.openlocfilehash: 6fc5bc192fd9cf285f3203ff07fe4614476c8ec9
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 0847c2baa63f866ae473d1eee20f5d4515e47078d4070ca349ffc812cb82f2aa
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212317"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121165"
 ---
 # <a name="does-my-vr-headsets-have-a-built-in-mic"></a>我的 VR 耳機有內建的 mic 嗎？
 

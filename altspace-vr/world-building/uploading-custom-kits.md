@@ -4,16 +4,16 @@ description: 瞭解如何在 AltspaceVR 中設定、產生及上傳您自己的�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 套件、上傳、疑難排解
-ms.openlocfilehash: e5a1b9c2ef5339db0cb821cb6f7d21a930416451
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 9a90bff2360d854dc398a35501f07cddcbce5c6c66ef8230f2e412a022f8aed0
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212553"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125513"
 ---
 # <a name="uploading-custom-kits"></a>上傳自訂套件
 
-「世界編輯器」包含可在您的世界中產生的成品套件。 例如， [Campfire 套件](https://account.altvr.com/kits/993516233267609824) 有許多類型的樹狀結構，每種類型的樹狀結構都是成品。 若要建立您自己的套件，您必須建立 Unity AssetBundles 並上傳包含每個成品 Unity 預製專案的 .zip 檔案，並在我們的網站上註冊每個成品。 幸運的是，社區驅動的 Unity 上傳程式會將大部分的工作流程自動化。 上傳之後，您可以從您自己的套件產生物件，讓其他使用者可以自動看見它們。 稍後，您可以與您的朋友分享您的套件，也可以透過精選來與整個社區分享。
+「世界編輯器」有套件，內含您可以在世界中產生的 Artifacts。 例如， [Campfire 套件](https://account.altvr.com/kits/993516233267609824) 有許多類型的樹狀結構，每種類型的樹狀結構都是成品。 若要建立您自己的套件，您必須建立 Unity AssetBundles 並上傳包含每個成品 Unity 預製專案的 .zip 檔案，並在我們的網站上註冊每個成品。 幸運的是，社區驅動的 Unity 上傳程式會將大部分的工作流程自動化。 上傳之後，您可以從您自己的套件產生物件，讓其他使用者可以自動看見它們。 稍後，您可以與朋友分享您的套件，或透過精選的整個 Community。
 
 ## <a name="prerequisites"></a>必要條件
 
@@ -26,7 +26,7 @@ ms.locfileid: "107212553"
 
 1. 在我們的全球網站上建立套件 [> 套件](https://account.altvr.com/kits)
 2. 從瀏覽器的網址列將套件識別碼複製到剪貼簿 (此步驟會在上傳版 0.9 + 中更簡單) 
-3. 建立新的 Unity 專案
+3. 建立新的 Unity Project
 4. 按兩下套件以匯入 Unity 上載程式
 
 ![匯入 unity 上載套件](images/custom-kits-img-01.png)
@@ -43,7 +43,7 @@ ms.locfileid: "107212553"
 
 ![Unity 中具有套件資料夾名稱的 AltspaceVR 介面](images/custom-kits-img-03.png)
 
-2. 針對每個成品或一組構件：
+2. 針對每個成品或一組 Artifacts：
 * 將您的來源預製專案 (s) 拖曳至 [階層] 索引標籤
 * 選取您要包含在集合中的專案，例如五種類型的桶
 * 使用 **圓柱** 更新 **套件資產名稱**
@@ -83,9 +83,9 @@ ms.locfileid: "107212553"
 **物件和動畫的意義為何？**
 在這些情況下，會在 1x1x1 Cube 下放置，並停用網格轉譯和碰撞。 物件應已啟用迴圈，並應將 **縮放比例** 設定 **為階層，以便** 我們可以在 Altspace 中適當地進行調整。 在產生所有動畫的 prefabs 之後，請針對每個動畫停用 **衝突** 物件的衝突。
 
-**構件很暗** 您是否將模型的材質著色器設定為 **僅限行動/頂點的方向燈**？
+**Artifacts 為深色** 您是否將模型的材質著色器設定為 **僅限行動/頂點的方向燈**？
 
 成品 **未面對正確的方式** 旋轉 **模型** 和 **碰撞**，並更新預製專案。 旋轉父系不會進行任何動作，而是會忽略該動作。 您可以使用 [ **旋轉覆寫** ] 欄位來輕鬆執行此動作。
 
-**這些成品可以搭配 SDK 的 **CreateFromLibrary** 函式使用嗎？**
+**這些 Artifacts 可以搭配 SDK 的 **CreateFromLibrary** 函式使用嗎？**
 是

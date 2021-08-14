@@ -4,12 +4,12 @@ description: 瞭解如何建立、疑難排解和新增歡迎訊息至您的 Alt
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 歡迎使用，疑難排解
-ms.openlocfilehash: bd6ce242297b84a205a0c457c6bc7e6e125da34c
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 4331aec99462e01b36be83a857201a6ad96bc0aa8b0847bd3d22f43fe5cfee24
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212216"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127197"
 ---
 # <a name="adding-welcome-messages"></a>新增歡迎訊息
 

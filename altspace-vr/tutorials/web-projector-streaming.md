@@ -4,12 +4,12 @@ description: 瞭解如何使用 web 投影機將來自指定瀏覽器的內容�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: web 投影機、串流、瀏覽器
-ms.openlocfilehash: 2c5cb6ef917b7e799b8da3f1a769d77258866992
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 8f25de68ba633e10b9192b85c883de4ba48fd7987ec5d301ebac8443982a1a55
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112922995"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127297"
 ---
 # <a name="using-the-web-projector-to-stream-a-browser"></a>使用 Web 投影機串流瀏覽器
 
@@ -25,11 +25,11 @@ AltspaceVR Web 投影機是一個強大的媒體共用解決方案，可讓您�
 > [!NOTE]
 > 這項功能主要是用來串流您所選擇的瀏覽器索引標籤。 如果您嘗試改為串流您的桌面應用程式，Web 投影機將會串流所有電腦音訊 (包括 AltspaceVR) ，而這可能會導致回顯/意見反應。 您必須將 AltspaceVR 靜音，以防止發生此情況。 或者，您也可以在從電腦進行串流時，使用不同的裝置來執行 AltspaceVR。
 
-## <a name="getting-started"></a>使用者入門
+## <a name="getting-started"></a>開始使用
 
 1. 若要開始，您必須下載並安裝瀏覽器延伸模組，可在 [這裡](https://account.altvr.com/web_projector)找到。
 2. 接下來， [在您的 Edge 瀏覽器中側載您的擴充](https://docs.microsoft.com/microsoft-edge/extensions-chromium/getting-started/extension-sideloading)功能。
-    * 完成下載後，請移至瀏覽器的 [ **延伸** 模組] 區段。 在 [ **設定** ] 下找到 () 
+    * 完成下載後，請移至瀏覽器的 [ **延伸** 模組] 區段。  (在 **設定** 下找到) 
     * 將 .zip 檔案解壓縮。
     * 在 **開發人員模式** 上切換，然後選取 [已 **解壓縮載入**]
     * 選擇您剛剛解壓縮的資料夾。 這是網頁投影機擴充功能。
@@ -49,7 +49,7 @@ AltspaceVR Web 投影機是一個強大的媒體共用解決方案，可讓您�
 1. 一旦您的瀏覽器設定為投射，且您已透過延伸模組開始串流，請開啟 AltspaceVR。
 2. 藉由開啟您的世界編輯器 > 基本 > Web 投影機，在您選擇的環境中設定 Web 投影機
 3. 一旦放置之後，您就可以使用您的世界編輯器控制項來調整 Web 投影機的大小。  (也會在螢幕上包含指示。 ) 
-4. 選取 [連線 **]** 按鈕以開始串流您的 Edge 瀏覽器。
+4. 選取 [**連線**] 按鈕以開始串流處理您的 Edge 瀏覽器。
 5. 請記得按一下 [ **廣播** ]，開始與空間中的所有來賓共用。
 6. 別忘了 **停止串流。** 您的會話最後會結束，但在那之前，它將會繼續即時投影您的瀏覽器。 當您完成時，最好立即結束您的會話。
 
@@ -61,4 +61,4 @@ AltspaceVR Web 投影機是一個強大的媒體共用解決方案，可讓您�
 > 目前，網頁投影機頂端的其他控制項按鈕尚未上線。 它們將維持灰色並 unclickable。 這不是錯誤，而是設計 (目前) 。
 
 > [!IMPORTANT]
-> 免責聲明：注意：像是 AltspaceVR 中的所有其他功能一樣，Web 投影機的使用方式會受限於我們 [的服務條款](../community/terms-of-service.md) 和我們的 [社區標準](../community/community-standards.md)。 因此，Web 投影機可能不會用來串流違反任一協定的內容。 這樣做會導致 AltspaceVR 所採取的仲裁動作。 無法保證存取網頁投影機 Open Beta 版，而且只能授與暫時試用版。 Beta 的長度和您參與的長度是 AltspaceVR 小組的判斷。 使用 Web 投影機的搶鮮版（Beta）並不是必要的，而且參與 Beta 版是純粹自願的。 建議參與者提供關於 Web 投影機的意見反應，以協助塑造功能的功能和可用性，因為開發會繼續進行。 Web 投影機的搶鮮版（Beta）可能會有有限的功能，且可能受限於非預期的錯誤。 事先感謝您的參與。
+> 免責聲明：注意：像是 AltspaceVR 中的所有其他功能一樣，Web 投影機的使用方式會受限於我們[的服務條款](../community/terms-of-service.md)和我們的[Community 標準](../community/community-standards.md)。 因此，Web 投影機可能不會用來串流違反任一協定的內容。 這樣做會導致 AltspaceVR 所採取的仲裁動作。 無法保證存取網頁投影機 Open Beta 版，而且只能授與暫時試用版。 Beta 的長度和您參與的長度是 AltspaceVR 小組的判斷。 使用 Web 投影機的搶鮮版（Beta）並不是必要的，而且參與 Beta 版是純粹自願的。 建議參與者提供關於 Web 投影機的意見反應，以協助塑造功能的功能和可用性，因為開發會繼續進行。 Web 投影機的搶鮮版（Beta）可能會有有限的功能，且可能受限於非預期的錯誤。 事先感謝您的參與。

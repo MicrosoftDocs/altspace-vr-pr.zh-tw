@@ -1,25 +1,25 @@
 ---
-title: 社區協助程式指南
+title: Community helper 指南
 description: 隨時掌握最新的 AltspaceVR 社區協助程式，以及使用投票暫停功能的規則和責任。
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 社區、指南、規則
-ms.openlocfilehash: 6587ae86231c092da42aa68e782538828cc17606
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: a917396ee93d35ad2bef1835a3a08603238d1174dbefe8b7c7b5add70fe29d51
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212421"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125013"
 ---
-# <a name="community-helper-guide"></a>社區協助程式指南
+# <a name="community-helper-guide"></a>Community helper 指南
 
-[投票至暫停] 功能僅適用于 AltspaceVR 的「社區協助程式」。 它是一個仲裁工具，可協助您保持 AltspaceVR 歡迎、安全且成熟。 「投票至暫停」可讓「社區協助程式」旗標違反我們社區指導方針的任何人。 以下是與投票暫停功能相關的官方規則和責任。 
+您可以自行 AltspaceVR 的 Community 協助程式來投票暫停功能。 它是一個仲裁工具，可協助您保持 AltspaceVR 歡迎、安全且成熟。 投票至暫止可讓 Community 協助程式為違反我們 Community 指導方針的任何人加上旗標。 以下是與投票暫停功能相關的官方規則和責任。 
 
 ## <a name="vote-to-suspend-rules--responsibilities"></a>投票至暫停規則 & 責任： 
 
 **規則** 
 
-* 只有在使用者違反 AltspaceVR 的社區指導方針時，才允許暫停。 沒有其他原因。 沒有例外狀況。  
+* 只有當使用者違反 AltspaceVR 的 Community 指導方針時，才允許暫停。 沒有其他原因。 沒有例外狀況。  
 * Underaged 使用者必須明確地將自己識別為13歲的年齡，您才能將其暫止。 
 * 系統會記錄和追蹤所有的投票。 
 * 如果系統要求您提供詳盡的要求，您必須願意並能夠解釋您對禁止使用者投票的原因。 
@@ -34,5 +34,5 @@ ms.locfileid: "107212421"
 
 **記得** 
 
-* 您可以將您的社區協助程式徽章開啟/關閉。 當您將徽章切換為「關閉」時，您也會切換「關閉」您的投票至暫止功能。 
+* 您可以開啟/關閉 Community 協助程式徽章。 當您將徽章切換為「關閉」時，您也會切換「關閉」您的投票至暫止功能。 
 * 投票暫停功能是一項試驗計畫，不保證可確保未來的能力。 

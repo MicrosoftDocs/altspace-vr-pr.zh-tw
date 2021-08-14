@@ -4,12 +4,12 @@ description: 瞭解如何建立、新增和疑難排解自訂產生點至 Altspa
 ms.date: 03/11/2021
 ms.topic: article
 keywords: spawnpoint，疑難排解
-ms.openlocfilehash: 0f53bdc229eb21e50edef34981c592556236fc55
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 53ff2e60d929aed9be5650b132da6d1dab8e6f1c5a78425dc5f17c10f2c4dfdb
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212222"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127248"
 ---
 # <a name="adding-custom-spawn-points"></a>新增自訂產生點
 
@@ -23,7 +23,7 @@ ms.locfileid: "107212222"
 
 ![在全球編輯器設定中更新產生點](images/spawn-points-img-02.png)
 
-3. 透過功能表 > 設定重新輸入您的世界 **> 一般 > 重新輸入空間 >**
+3. 透過功能表 > 重新輸入您的世界 **設定 > 一般 > 重新輸入空間 > 重新輸入**
 4. 您應該會產生新的衍生點！
 5. 如果您想要讓人們面對不同的方向，請選取產生點的設定，並只將 **旋轉 > Y** 。 嘗試將 Y 設定為180，且 X 和 Z 為 0 (警告： X 和 Z 是 advanced，可能會讓人病假) 。 然後選取 [ **確認** ]，然後重新輸入世界。 這應該會產生相反方向的。 
 

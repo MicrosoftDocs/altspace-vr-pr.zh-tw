@@ -4,12 +4,12 @@ description: 瞭解如何使用混合現實延伸模組並進行疑難排解，�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 混合的現實、延伸模組、疑難排解
-ms.openlocfilehash: 498e71c48f7c67abc40ce4f4667c9eeac4c4e73b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 1439ca76eaf4e0235c6552d037e55b6151e08407871bf470b3011b6cf8cbccd5
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211861"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125352"
 ---
 # <a name="using-a-mixed-reality-extension"></a>使用混合現實擴充功能
 
@@ -32,4 +32,4 @@ ms.locfileid: "107211861"
 **深入為延遲** 視裝載深入的位置而定，您可能會遇到一些網路延遲
 
 **為什麼需要貼上 Url？**
-未來，您可以管理和產生 MREs，就像從套件進行成品一樣。 在那之前，我們將繼續使用 Url
+未來，您可以像從套件 Artifacts 一樣來管理和產生 MREs。 在那之前，我們將繼續使用 Url

@@ -4,12 +4,12 @@ description: 請聯絡 AltspaceVR 支援小組以取得協助、開啟支援票�
 ms.date: 03/26/2021
 ms.topic: article
 keywords: 協助、支援
-ms.openlocfilehash: 7898764aaf6db42ebd288948f2ff806c9937bf88
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2c208af2561346148991e6160426fce948ae7d1e94d11afec3a0836a82ca61fd
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212417"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126484"
 ---
 # <a name="open-a-support-ticket"></a>開啟支援票證
 

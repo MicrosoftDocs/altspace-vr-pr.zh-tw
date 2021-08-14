@@ -1,19 +1,19 @@
 ---
-title: 社區標準
+title: Community 標準
 description: 隨時掌握最新的 AltspaceVR 社區標準和報告違規的程式。
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 社區、標準、harassments、警告
-ms.openlocfilehash: 2de3521954e3aa465e8c1eac8dd7017555e848be
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 1e1480c355c7b76ff658d7d3e2f8c54ff3dd536e4bc6be8ddf8378299d0250c1
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212573"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125035"
 ---
-# <a name="community-standards"></a>社區標準
+# <a name="community-standards"></a>Community 標準
 
-AltspaceVR 的社區標準是一組原則，可讓團體成員體驗真正出色的環境，而不會有 defamation 和 intolerance、霸淩、騷擾、猥褻行為或冒犯性內容的顯示。 以下是每個領域的相關資訊，以及 Microsoft 在登入 AltspaceVR 服務時的預期使用者行為，或在 Microsoft 所管理的社交媒體頁面和論壇上張貼的問題。
+AltspaceVR Community 標準是一組原則，可讓團體成員體驗真正出色的環境，而不會有 defamation 和 intolerance、霸淩、騷擾、猥褻行為或冒犯性內容的顯示。 以下是每個領域的相關資訊，以及 Microsoft 在登入 AltspaceVR 服務時的預期使用者行為，或在 Microsoft 所管理的社交媒體頁面和論壇上張貼的問題。
 
 ## <a name="defamation-and-intolerance"></a>Defamation 和 Intolerance
 
@@ -25,7 +25,7 @@ AltspaceVR 是來自許多不同文化背景的使用者國際團體。 每個�
 
 ## <a name="cyber-bullying-and-intimidation"></a>Cyber-Bullying 和恫嚇
 
-雖然 Cyber-Bullying 被視為影響青少年和先占式發行版本的問題，我們也將其納入為「社區標準」的一部分，讓我們清楚說，對另一位使用者進行的任何形式恫嚇，都是在 AltspaceVR 平臺上，或是在 Microsoft 所管理的任何社交媒體或論壇網站上，都應考慮暫停或帳戶終止。
+雖然 Cyber-Bullying 被視為影響青少年和先占式發行版本的問題，但我們將它納入 Community 標準中，讓我們清楚地說，對另一位使用者進行的恫嚇，是在 AltspaceVR 平臺上，或是在 Microsoft 所管理的任何社交媒體或論壇網站上，都應考慮暫停或帳戶終止。
 
 ## <a name="lewd-or-unwanted-advances"></a>猥褻或不想要的進展
 
@@ -33,7 +33,7 @@ AltspaceVR 是來自許多不同文化背景的使用者國際團體。 每個�
 
 ## <a name="discovery-and-disclosure-of-personal-information"></a>個人資訊的探索與洩漏
 
-社區成員有權享有 AltspaceVR 平臺上合理的隱私權等級。 不允許在不同意的情況下，與您的使用者共用個人資訊，包括性別、宗教、年齡、婚姻狀態、競爭、色情喜好設定、替代帳戶名稱，以及其所提供的真實世界位置。 探索這項資訊並使用它來連絡人員，而不需要對社區成員的同意，將被視為不適當的行為，而且可能是帳戶暫停或終止的帳戶。
+Community成員有權享有 AltspaceVR 平臺上合理的隱私權等級。 不允許在不同意的情況下，與您的使用者共用個人資訊，包括性別、宗教、年齡、婚姻狀態、競爭、色情喜好設定、替代帳戶名稱，以及其所提供的真實世界位置。 探索這項資訊並使用它來連絡人員，而不需要對社區成員的同意，將被視為不適當的行為，而且可能是帳戶暫停或終止的帳戶。
 
 ## <a name="impersonation-of-an-altspacevr-employee"></a>AltspaceVR 員工的模擬
 
@@ -52,12 +52,12 @@ AltspaceVR 是真正獨特的環境。 平臺的強大功能是能夠與其他�
  
 ## <a name="warning-suspension-banishment"></a>警告、暫停、Banishment
 
-Microsoft 的員工瞭解有了 VR 和2D 虛擬環境的學習曲線。 我們瞭解某些新的使用者可能會不慎違反上述一些較不嚴重的標準。 我們要求該社區協助我們讓其他人瞭解虛擬環境中現有的細微差異。 每一次都是 VR 的新手。 平靜和種類的溝通與人們認為運作不良的程度很驚人。 在合理通訊無法運作的情況下，違規的社區標準將會先產生警告，後面接著暫停和最終終止 AltspaceVR 帳戶。 稱為 Concierges 的 VR 公司代表有時可能會因暫時移除 AltspaceVR 而解決紀律問題。 這些個人的名稱標記中會有 AltspaceVR 標誌。
+Microsoft 的員工瞭解有了 VR 和2D 虛擬環境的學習曲線。 我們瞭解某些新的使用者可能會不慎違反上述一些較不嚴重的標準。 我們要求該社區協助我們讓其他人瞭解虛擬環境中現有的細微差異。 每一次都是 VR 的新手。 平靜和種類的溝通與人們認為運作不良的程度很驚人。 在合理通訊無法運作的情況下，Community 標準的違規會先產生警告，後面接著 AltspaceVR 帳戶的暫停和最終終止。 稱為 Concierges 的 VR 公司代表有時可能會因暫時移除 AltspaceVR 而解決紀律問題。 這些個人的名稱標記中會有 AltspaceVR 標誌。
 
 ## <a name="alternate-accounts"></a>其他帳戶
 
-雖然社區成員可以選擇建立及使用一個以上的帳戶，但特別或一致使用其他帳戶來騷擾其他使用者，或違反了不接受的社區標準。 替代帳戶會被視為與使用者主體帳戶分開的帳戶，但誤用替代帳戶可能會導致主體帳戶採取紀律處分。
+雖然社區成員可以選擇建立及使用一個以上的帳戶，但特別或一致地使用其他帳戶來騷擾其他使用者，或違反 Community 標準並無法接受。 替代帳戶會被視為與使用者主體帳戶分開的帳戶，但誤用替代帳戶可能會導致主體帳戶採取紀律處分。
 
-## <a name="reporting-violations-of-the-community-standards"></a>報告違規的社區標準
+## <a name="reporting-violations-of-the-community-standards"></a>報告違規 Community 標準
 
-如果您覺得個人已違反了社區標準，您可能會向 AltspaceVR 的團隊團隊提出濫用報告。 請包含事件的說明、相關的帳戶名稱，以及其過了的時間和時間。 AltspaceVR 社區小組將會審查報表，並採取適當的動作。 作為原則，我們不會將這些動作的詳細資料提供給報告程式。 請勿跟進要求決策的狀態。
+如果您覺得某個人違反了 Community 標準，您可能會向 AltspaceVR Community 團隊提出濫用報告。 請包含事件的說明、相關的帳戶名稱，以及其過了的時間和時間。 AltspaceVR Community 小組將會審查報表，並採取適當的動作。 作為原則，我們不會將這些動作的詳細資料提供給報告程式。 請勿跟進要求決策的狀態。

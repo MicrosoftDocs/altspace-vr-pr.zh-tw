@@ -4,12 +4,12 @@ description: 取得逐步指示，說明如何從 Microsoft 或串流存放區�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 安裝、microsoft store、串流
-ms.openlocfilehash: 6d0ca038a95a1e59a24910b742b6b30ea3271e83
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 703d9c795311cacbbf1d5a45660628a4df4a53662027c45a5f7a9ae400c36d2c
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212320"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127465"
 ---
 # <a name="windows-mixed-reality-installation"></a>Windows Mixed Reality 安裝
 
@@ -17,7 +17,7 @@ ms.locfileid: "107212320"
 
 若要從 Microsoft Store 設定 Windows Mixed Reality：
 1. 完成您電腦上的 [WMR 安裝程式](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/set-up-windows-mixed-reality) 。
-2. 將您的耳機連接到您的電腦，& 開啟混合實境入口。
+2. 連線您的耳機帶到您的電腦 & 開啟混合實境入口。
 3. 開啟您的運動控制器，但不要放在耳機上。
 4. 等候 Windows Mixed Reality home 載入 &，讓控制器可見。
 
@@ -33,7 +33,7 @@ ms.locfileid: "107212320"
 2. [安裝適用于 SteamVR 的 Windows Mixed Reality](http://store.steampowered.com/app/719950/Windows_Mixed_Reality_SteamVR_preview/)。
 
 接下來，若要執行 AltspaceVR：
-1. 將您的耳機連接到您的電腦，然後開啟您的動作控制器。
+1. 連線您的耳機帶到您的電腦，然後開啟您的動作控制器。
 2. 一旦載入 Windows Mixed Reality 首頁，並顯示您的控制器，請在您的桌面上開啟串流應用程式。
 3. [安裝 AltspaceVR](https://store.steampowered.com/app/407060/AltspaceVR/)。
 4. 使用流應用程式從您的串流庫啟動 AltspaceVR。

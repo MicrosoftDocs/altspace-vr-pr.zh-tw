@@ -4,12 +4,12 @@ description: 瞭解如何在您的 AltspaceVR view 中尋找及識別 [點擊對
 ms.date: 02/10/2021
 ms.topic: article
 keywords: ''
-ms.openlocfilehash: 7abadd15b8238b271bb2514311804c711dcc41b4
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 0a25810f18b87964549495e85a5aa5b0497deba1a7c5b1e06fefa7e1ab78ba1e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211902"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128026"
 ---
 # <a name="is-there-a-push-to-talk-button"></a>是否有 [點擊對話] 按鈕？
 

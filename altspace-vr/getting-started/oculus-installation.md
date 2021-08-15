@@ -4,12 +4,12 @@ description: 取得逐步指示，說明如何從行動裝置應用程式或 Ocu
 ms.date: 03/11/2021
 ms.topic: article
 keywords: oculus，oculus 的追求，第2、疑難排解、麥克風、支援
-ms.openlocfilehash: 355b6720711868a75c280922deae4db00c132661
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 712e5c0c4057e94f3464b723943d6b26534cf116d4f0d6fd8855016cb90d67be
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212324"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127754"
 ---
 # <a name="oculus-questquest-2-installation"></a>Oculus 進行中/尋找2安裝
 

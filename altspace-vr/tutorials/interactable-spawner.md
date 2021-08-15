@@ -4,12 +4,12 @@ description: 瞭解如何建立、使用和自訂 interactables spawner，以將
 ms.date: 02/10/2021
 ms.topic: article
 keywords: spawner，互動，自訂
-ms.openlocfilehash: 7f4b87591b2e11b2084af4d2bf83748ed51fd193
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: abeddec5c2b50e0612db5efb6bc2e3c5bd9de4a8b67c50b19afee18b17c5e746
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212576"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127386"
 ---
 # <a name="using-the-interactables-spawner"></a>使用 Interactables Spawner
 
@@ -44,6 +44,6 @@ Interactables Spawner 可讓您將互動專案放置在您的活動、世界或�
 
 套件製作者可能會注意到，AltspaceVR 正在執行時對套件所做的變更，在您重新開機 AltspaceVR 之前將不會生效。
 
-最近我們已在 [ **一般設定** ] 索引標籤下新增名為 [ **重載世界套件**] 的按鈕。 按一下這個按鈕會導致 (您) 重新輸入空間，再次重載所有套件，這只會下載您在 AltspaceVR 時更新的新套件版本。
+最近我們已在 [**一般設定**] 索引標籤下新增名為 [**重載世界套件**] 的按鈕。 按一下這個按鈕會導致 (您) 重新輸入空間，再次重載所有套件，這只會下載您在 AltspaceVR 時更新的新套件版本。
 
 ![在 AltspaceVR 應用程式中開啟適中設定面板](images/interactables-spawner-img-03.png)

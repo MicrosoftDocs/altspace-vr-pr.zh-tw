@@ -4,12 +4,12 @@ description: 瞭解 Oculus 的取得和取得2個裝置、管理許可權，以�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: oculus、oculus 的追求、控制項、許可權、手勢
-ms.openlocfilehash: 9a10c782a4fac587621dec33d97bdfb9b9eca04d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212376"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127856"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Oculus 的追求/進行2控制項和許可權
 

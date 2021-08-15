@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 87635656f90c6e6affb033fb19409b968101aba0
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 9e4ce07f8e549f9d648e7666971a1009ecaffc729b5f1ff9d5fd1148e520e05c
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212357"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126438"
 ---
 # <a name="altspacevr-application"></a>[AltspaceVR 應用程式](#tab/application)
 
@@ -24,7 +24,7 @@ ms.locfileid: "107212357"
 * [Nametags 如何運作？](../faqs/nametags.md)
 * [如何? 更新我的個人資訊？](../faqs/updating-email-address.md)
 
-# <a name="contact-us"></a>[與我們連絡](#tab/contact)
+# <a name="contact-us"></a>[與我們聯繫](#tab/contact)
 
 * [開啟支援票證](../community/open-support-ticket.md)
 * [將意見反應和功能要求傳送給我們](../community/feature-requests.md)

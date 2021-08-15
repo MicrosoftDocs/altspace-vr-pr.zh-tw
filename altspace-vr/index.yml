@@ -13,19 +13,19 @@ metadata:
   ms.date: 02/10/2021
 highlightedContent:
   items:
-    - title: 使用者入門
+    - title: 開始使用
       itemType: get-started
       url: journey.md
     - title: 探索 & 人員的內容
       itemType: overview
-      url: getting-started/system-requirements.md
+      url: community/exploring-title-screen.md
     - title: 建立事件
       itemType: how-to-guide
       url: tutorials/creating-an-event.md
     - title: 打造世界
       itemType: learn
       url: world-building/world-editor-getting-started.md
-    - title: 早期存取
+    - title: 搶先存取
       itemType: whats-new
       url: world-building/early-access.md
     - title: 疑難排解
@@ -87,9 +87,9 @@ additionalContent:
           links:
             - text: 訂閱我們的電子報
               url: community/newsletter-subscriptions.md
-            - text: 社區協助程式
+            - text: Community helper 程式
               url: community/community-helper-program.md
-            - text: 社區協助程式指南
+            - text: Community helper 指南
               url: community/community-helper-guide.md
         - title: 疑難排解與支援
           links:

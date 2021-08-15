@@ -4,18 +4,18 @@ description: 瞭解如何在 AltspaceVR 體驗中開始設定、發佈和控制�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 主控台，多媒體
-ms.openlocfilehash: 4a51ff76e44d3870972bc17288ae77c1fa888922
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a24b3700f1687aed6bc00fd218aacd7cc12908e521af6239fac0ae97f48b4b9a
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923005"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127363"
 ---
 # <a name="using-the-multimedia-console"></a>使用多媒體主控台
 
 多媒體主控台是一種工具，可讓您在事件和世界中共用媒體。 您可以使用它來共用影像、簡報、投影片、livestreams、影片、播放清單等專案。 以下逐步指示說明如何使用多媒體主控台 **v 0.5.0 +**。 
 
-## <a name="getting-started"></a>使用者入門
+## <a name="getting-started"></a>開始使用
 
 開始使用多媒體主控台的程式分為兩個部分。  首先，您將使用入口網站來產生和發佈您在環境中放置之多媒體主控台會話的設定。  第二個是在您的環境中放置實際的多媒體主控台應用程式，並設定應該使用的設定程式碼。
 

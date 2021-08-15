@@ -4,12 +4,12 @@ description: 隨時掌握最新的常見問題和解決方案，以在 VR 環境
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 運動 sickness、vr、nausea
-ms.openlocfilehash: 54f746bc2b213f011dbf94c2703ed039b4717d72
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 29d7c20ae16a212ba808b6f1d16909a7f0d29daf7e2f6fd6e8401c83cbdb2e7e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212485"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128151"
 ---
 # <a name="will-altspacevr-cause-motion-sickness"></a>AltspaceVR 會導致移動 sickness 嗎？
 

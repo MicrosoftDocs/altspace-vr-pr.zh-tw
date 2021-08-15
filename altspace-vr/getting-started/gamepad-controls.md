@@ -4,12 +4,12 @@ description: 瞭解 Xbox 360 和遊戲控制器的內建 AltspaceVR 控制器對
 ms.date: 02/10/2021
 ms.topic: article
 keywords: xbox、xbox 360、遊戲台、windows、控制項
-ms.openlocfilehash: dccdd8ba8c8603d2d6999c6829dc40e6a37e5c83
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 4b0adcc8a3cad9c07f825417ec484e73c2bcf7d1965a9b7d0398eefb086c0ad7
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212380"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127890"
 ---
 # <a name="using-a-gamepad-in-altspacevr"></a>使用 AltspaceVR 中的遊戲台
 

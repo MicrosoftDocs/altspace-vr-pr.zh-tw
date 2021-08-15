@@ -4,12 +4,12 @@ description: 瞭解如何在新的和傳統的控制項配置之間切換，以 
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 頭像、滑鼠、鍵盤、2d、電腦模式、控制項
-ms.openlocfilehash: ec63ae241ac1d91817e8f8a6675299f8d83a1bdb
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 670cd05bdcaa63b3a0c6ff772bef0e9f7d05bb3c3ba795d104bf5d857401a848
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212321"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127966"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>使用2D 電腦模式的滑鼠/鍵盤來顯示圖片
 
@@ -17,7 +17,7 @@ ms.locfileid: "107212321"
 * 新的電腦控制項，這是新帳戶的預設值
 * 傳統電腦控制項
 
-您可以前往 **功能表 > 設定 > 輸入 > 傳統電腦控制項** ，並開啟或關閉選項，在新的/傳統控制項之間切換。
+您可以前往 **功能表 > 設定 > 輸入 > 傳統電腦控制項**，並開啟或關閉選項，在新的/傳統控制項之間切換。
 
 ## <a name="new-pc-controls"></a>新的 PC 控制項
 

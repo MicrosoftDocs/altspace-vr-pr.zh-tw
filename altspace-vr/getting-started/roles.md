@@ -4,12 +4,12 @@ description: 瞭解您可以在 AltspaceVR 事件、領域和群組中提供給�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 角色、事件、世界、群組、促銷
-ms.openlocfilehash: 7434002b9926b424ac08a0f93a368966fefe6606
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a4f612fb80a95fa775aa34f4b73f0d29ba446e3541756a99eefd0feeeb1e004d
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923145"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127741"
 ---
 # <a name="roles-in-events-worlds-groups-and-in-altspacevr"></a>事件、世界、群組和 AltspaceVR 中的角色
 
@@ -42,7 +42,7 @@ ms.locfileid: "112923145"
 | Host | 與上述主機相同的所有功能，包括主機工具 |
 | 僅限擴音器 | 授與該使用者對主機工具的存取權，但只增強我的語音 |
 | 仲裁者 ^ | 與事件建立者仲裁者角色相同 |
-| 試驗 | 新增該個人的航班功能。 注意：必須在設定/輸入/即時啟用此功能 |
+| 試驗 | 新增該個人的航班功能。 注意：必須在設定/Input/Fly 中啟用此功能 |
 | Terraformer | 將 [世界編輯器] 按鈕新增至其介面 |
 
 > [!NOTE]
@@ -72,7 +72,7 @@ ms.locfileid: "112923145"
 當所有使用者都可以有超級電源時，有些事件會有説明！ 比方說，如果您的活動在大型區域中，您可能會想要讓每個人都能夠即時和增強語音，讓您可以從最遠的地方聽到彼此的聲音。 若要新增此專案，請編輯您的事件、按一下 [Advanced Options]，然後在 [VR] 區段中按一下 [預設內容角色]。 針對您可以新增的所有角色變換綠色圓圈。 在上述範例中，您會新增： megaphone_only、試驗。
 
 > [!NOTE] 
-> 每個人都必須在設定/輸入/即時啟用此功能。
+> 在設定/Input/Fly. 中，每個人都必須啟用此功能。
 
 ## <a name="roles-in-worlds"></a>領域中的角色
 
@@ -97,8 +97,8 @@ ms.locfileid: "112923145"
 | 僅限擴音器 | 授與該使用者對主機工具的存取權，但只增強我的語音 |
 | 仲裁者 | 與「世界建立者仲裁者」角色相同 |
 | 音樂表演 |適用于歌手或音樂家玩儀器的更高品質音訊  |
-| 試驗 | 新增該個人的航班功能。 注意：必須在設定/輸入/即時啟用此功能 |
-| 主機 | 與 world creator 主機角色相同 |
+| 試驗 | 新增該個人的航班功能。 注意：必須在設定/Input/Fly 中啟用此功能 |
+| Host | 與 world creator 主機角色相同 |
 | Terraformer | 將 [世界編輯器] 按鈕新增至其介面 | 
 
 ### <a name="adding-more-admins-to-your-world"></a>將更多系統管理員新增到您的世界
@@ -120,6 +120,6 @@ ms.locfileid: "112923145"
 
 * **早期訪問程式**：早期存取程式可讓您存取仍在開發中的最新功能。 許多世界大樓、可移動功能表和群組功能只適用于搶先存取的使用者，以下是您可以選擇的方式：什麼是早期存取程式？
 
-* **世界** 搶鮮版：在 AltspaceVR 應用程式中，開啟功能表/設定/讓世界 Beta 版啟用。 這會讓您的主功能表中的世界 (BETA) 索引標籤，讓您能夠存取您的世界。
+* **全球 Beta 版**：在 AltspaceVR 應用程式中，開啟功能表/設定/讓世界 Beta 版啟用。 這會讓您的主功能表中的世界 (BETA) 索引標籤，讓您能夠存取您的世界。
 
-* **社區** 協助程式：投票至暫止、存取 AltspaceVR 但是伺服器中的「社區協助程式」通道，以及搶先存取特定的社區公告。 更多有關如何成為社區協助程式的詳細資料：社區協助程式
+* **Community Helper**：投票至暫止、存取 AltspaceVR 但是伺服器中的 Community 協助程式通道，以及提早存取特定的社區公告。 有關如何成為 Community helper 的詳細資訊： Community helper 程式

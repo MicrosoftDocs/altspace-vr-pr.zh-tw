@@ -4,12 +4,12 @@ description: 瞭解如何識別、報告和修正任何與啟動 AltspaceVR 環�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 常見問題
-ms.openlocfilehash: fc49b5b7ed708e43a12616d782a397a364b2264e
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 50edddef669aca14640fd6e910c12c15864cf46a099e54bceed40494e9817de4
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212384"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127924"
 ---
 # <a name="i-cant-launch-altspacevr"></a>我無法啟動 AltspaceVR
 
@@ -18,7 +18,7 @@ AltspaceVR 可能不會為您啟動的原因有好幾種。 請嘗試下列步�
 ## <a name="if-youre-trying-to-launch-altspacevr-for-the-first-time"></a>如果您是第一次嘗試啟動 AltspaceVR：
 
 1. 確認您的裝置受支援，並符合 [指定的最低需求](../getting-started/system-requirements.md)。
-2. 請確定您已安裝最新的 [Oculus 軟體](https://www.oculus.com/setup) ，而且設定-> 一般 > 未知裝置設定為開啟。 如果以2D 模式啟動，您就不需要安裝 Oculus。
+2. 請確定您已安裝最新的[Oculus 軟體](https://www.oculus.com/setup)，且設定 > 一般 > 的未知裝置設定為開啟。 如果以2D 模式啟動，您就不需要安裝 Oculus。
 3. 請確定您有正常運作的網際網路連線。 如果您嘗試從網路防火牆內啟動 Altspace，請開啟 UDP 埠5055和5056，以及 TCP 埠80和443。 如果您是在公司或教育級防火牆的網路中，您可能需要聯繫網路系統管理員或 IT 部門。
 4. 另請參閱：
     * [安裝 AltspaceVR 以進行 Oculus 的尋找](../getting-started/oculus-installation.md)

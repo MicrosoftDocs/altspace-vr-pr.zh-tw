@@ -4,12 +4,12 @@ description: 取得逐步指示，說明如何建立新的 AltspaceVR 帳戶，�
 ms.date: 06/25/2021
 ms.topic: article
 keywords: 註冊，帳戶，帳戶建立，帳戶連結，microsoft 帳戶，常見問題，疑難排解，2D 模式，VR 模式，使用者名稱，顯示，名稱
-ms.openlocfilehash: ea54c18ad8316911626159045ac7cca24b6643a0
-ms.sourcegitcommit: becdc9d9de1ce09a74aaf57af1b9de44c8346dc2
+ms.openlocfilehash: 213fcb788d99942aed0eccfc62b7d47221e93aa435349a12127d6d2e06463bd3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/26/2021
-ms.locfileid: "112975837"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127907"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>建立和連結您的 AltspaceVR 帳戶
 
@@ -78,7 +78,7 @@ ms.locfileid: "112975837"
 * 如果您是在 VR 模式且遇到問題，請嘗試拔掉耳機並切換至2D 電腦模式， (或其他) 的方式。
 * 如果您發現自己無法與 Microsoft 帳戶重新連接，您仍然可以使用您的使用者名稱和密碼取回 AltspaceVR。 只需選取 [以 AltspaceVR 登入] 按鈕。
 * 如果您使用的是 VR，當系統提示您開啟對話方塊時，請在已使用您想要搭配 AltspaceVR 使用之 Microsoft 認證的電腦上嘗試這麼做。
-* 如果您遇到任何問題，請前往 **主功能表 > 設定 > 支援 > 上傳記錄** 檔，以提交您的記錄。
+* 如果您遇到任何問題，請前往 **主功能表 > 設定 > 支援 > Upload 記錄** 檔來提交記錄。
 
 ## <a name="account-registration-faq"></a>帳戶註冊常見問題
 
@@ -113,21 +113,21 @@ ms.locfileid: "112975837"
 
 將您的 AltspaceVR 帳戶連結至您的 Microsoft 帳戶，不會變更公開顯示的使用者名稱或名字。 它只會變更您私用的帳戶登入認證 (。 ) 您仍可完全掌控您的名稱、使用者名稱和個人資料圖片在 AltspaceVR 中的外觀。
 
-**我仍然可以切換帳戶嗎？此選項已不再位於 [設定] 下。**
+**我仍然可以切換帳戶嗎？此選項已不再設定。**
 
 沒錯，我們 redecorated 了一點。 您現在可以在主功能表下管理帳戶 & 切換帳戶 **> 我 > 帳戶**
 
 **我已經有 Microsoft 帳戶嗎？**
 
-您可能已經有 Microsoft 帳戶。 您是在 Xbox 上玩 Minecraft、玩遊戲、訂閱 Office 365，還是要定期使用其他任何 Microsoft 產品或服務？ 如果有，您可能已經有 Microsoft 登入！ 您可以在 [這裡](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)查看您的電子郵件是否已系結至現有的 MSA。
+您可能已經有 Microsoft 帳戶。 您是在 Xbox 上玩 Minecraft、玩遊戲、訂閱 Office 365，還是要定期使用任何其他 Microsoft 產品或服務？ 如果有，您可能已經有 Microsoft 登入！ 您可以在 [這裡](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)查看您的電子郵件是否已系結至現有的 MSA。
 
 **這是否表示我需要使用 Outlook 建立新的電子郵件地址？**
 
-否。 您可以使用目前的電子郵件地址來設定 Microsoft 帳戶，即使它不是由 Microsoft 託管也一樣。  (例如： G-Mail、Yahoo 等) 。 如果您使用與傳統 AltspaceVR 帳戶共用相同電子郵件的 Microsoft 認證登入，系統會在登入後提示您連結您的帳戶。 遵循提示來登入您的傳統帳戶，您的 Altspace 和 Microsoft 帳戶將會為您連結。
+不會。 您可以使用目前的電子郵件地址來設定 Microsoft 帳戶，即使它不是由 Microsoft 託管也一樣。  (例如： G-Mail、Yahoo 等) 。 如果您使用與傳統 AltspaceVR 帳戶共用相同電子郵件的 Microsoft 認證登入，系統會在登入後提示您連結您的帳戶。 遵循提示來登入您的傳統帳戶，您的 Altspace 和 Microsoft 帳戶將會為您連結。
 
 **它會花費金錢嗎？**
 
-不！ 建立 Microsoft 帳戶是免費的。 使用 AltspaceVR 也是免費的。 請記住，您的 Microsoft 帳戶已連結至其他產品和服務，因此您可以使用它來購買 AltspaceVR 以外的專案，例如訂用帳戶 (例如： Office 365) 或特殊商品 (例如： Minecraft Marketplace) 。
+不！ 建立 Microsoft 帳戶是免費的。 使用 AltspaceVR 也是免費的。 請記住，您的 Microsoft 帳戶已連結至其他產品和服務，因此您可以使用它來購買 AltspaceVR 以外的專案，例如訂用帳戶 (例如： Office 365) 或專業商品 (例如： Minecraft Marketplace) 。
 
 **如果我在連結帳戶時遇到問題，該怎麼辦？**
 

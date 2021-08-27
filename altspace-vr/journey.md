@@ -1,21 +1,23 @@
 ---
 title: 探索 AltspaceVR
 description: 使用我們的策劃檢查點旅程，開始在 AltspaceVR 平臺上建立和裝載虛擬事件。
-ms.date: 03/29/2021
+author: qianw211
+ms.author: v-qianwen
+ms.date: 08/26/2021
 ms.topic: article
-keywords: altspace，虛擬實境，活動，世界大樓，教學課程
-ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+keywords: AltspaceVR，virtual 聚會，虛擬實境聚會，VR 聚會，虛擬實境平臺，VR 平臺，沉浸式虛擬事件，沉浸式的 VR 事件，虛擬實境事件，VR 事件，VR 全球大樓，VR 事件裝載，社交虛擬實境，虛擬實境事件裝載
+ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126437"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122979025"
 ---
 # <a name="exploring-altspacevr"></a>探索 AltspaceVR
 
 ![AltspaceVR 橫幅影像](images/altspace-vr-banner.png)
 
-AltspaceVR 是適用于虛擬實境的領導社交平臺。 AltspaceVR 會使用技術來協助您調整人類的連線，以專注于規模從演唱會到專長的領域。
+AltspaceVR 是即時混合現實體驗的領先平臺。 AltspaceVR 可讓演出者、建立者、品牌和企業輕鬆地建立自己的虛擬活動。 這項社交應用程式可讓世界各地的人員以真正的狀態來即時連線及共同作業。 有表達虛擬人偶、吸引人的眼睛、空間音效和沉浸式虛擬環境讓人們感覺像是在彼此海洋的時候。 AltspaceVR 是即時演唱會、會議、喜劇節目、慶典、tech 演講、小組會議、遠端共同作業等的主要位置，也是坐在體驗、內容和團體的交集處。  
 
 無論您是經驗豐富的 AltspaceVR，還是新的使用者，都必須有可靠的資源可供您計算。 我們已編譯下列檢查點，逐步引導您將虛擬活動帶入世界。 如果您知道您要尋找的內容，您可以依序涵蓋它們，也就是我們建議的做法，或是跳到。 無論何種方式，您都想要在需要時重新流覽此旅程。
 

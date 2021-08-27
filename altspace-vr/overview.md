@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/04/2021
 ms.topic: article
 keywords: AltspaceVR，virtual 聚會，虛擬實境聚會，VR 聚會，虛擬實境平臺，VR 平臺，沉浸式虛擬事件，沉浸式的 VR 事件，虛擬實境事件，VR 事件，VR 全球大樓，VR 事件裝載，社交虛擬實境，虛擬實境事件裝載
-ms.openlocfilehash: 9d5ccc5f74abf3c141f5786ba3650c3820eb8d49b8e914ab5a2a07828391ba04
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1227807b34065c9706b8a67b2f9fc2368f5b7fdd
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131824"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122978993"
 ---
 # <a name="what-is-altspacevr"></a>什麼是 AltspaceVR
 

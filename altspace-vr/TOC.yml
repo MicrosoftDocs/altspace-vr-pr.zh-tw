@@ -1,8 +1,10 @@
 - name: 歡迎使用 AltspaceVR
   href: index.yml
+- name: AltspaceVR 總覽
+  href: overview.md
 - name: 探索 AltspaceVR
   href: journey.md
-- name: 使用者入門
+- name: 開始使用
   expanded: true
   items:
     - name: 系統需求
@@ -31,11 +33,11 @@
       href: community/exploring-title-screen.md
     - name: 訂閱我們的電子報
       href: community/newsletter-subscriptions.md
-    - name: 社區參與
+    - name: Community 介入
       items:
-        - name: 社區協助程式
+        - name: Community helper 程式
           href: community/community-helper-program.md
-        - name: 社區協助程式指南
+        - name: Community helper 指南
           href: community/community-helper-guide.md
 - name: 建立 & 裝載事件
   items:
@@ -123,7 +125,7 @@
   items:
     - name: 服務條款
       href: community/terms-of-service.md
-    - name: 社區標準
+    - name: Community 標準
       href: community/community-standards.md
 - name: 疑難排解與支援
   items:

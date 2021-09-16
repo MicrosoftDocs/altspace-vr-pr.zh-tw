@@ -1,21 +1,23 @@
 ---
 title: Oculus 的追求/進行2控制項和許可權
 description: 瞭解 Oculus 的取得和取得2個裝置、管理許可權，以及使用手手勢的基本控制項。
-ms.date: 03/11/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: oculus、oculus 的追求、控制項、許可權、手勢
-ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 5c74ddaee54e1319d80cf270d291575bbae7219c
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127856"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871140"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Oculus 的追求/進行2控制項和許可權
 
 ## <a name="basic-controls"></a>基本控制項
 
-<!-- Missing images -->
+<img src="images/quest2-controls.png" alt="Oculus Quest/Quest 2 controls">
 
 | 左手 | 右手 |
 |---|---|
@@ -29,6 +31,8 @@ ms.locfileid: "119127856"
 
 ## <a name="hand-gestures"></a>手勢
 
+<img src="images/quest2-hand-gesture-controls.png" alt="Oculus Quest/Quest 2 hand gestures">
+
 | 手勢 | 輸入 |
 |---|---|
 | 待用 | 預設位置 |
@@ -37,8 +41,6 @@ ms.locfileid: "119127856"
 | 拳頭 | 已保留底框、觸發程式和 A/X 按鈕 |
 
 ## <a name="managing-permissions"></a>管理權限
-
-<!-- Missing image -->
 
 若要從您的 Oculus 程式庫以每個應用程式為基礎，管理您對 Oculus 的許可權：
 

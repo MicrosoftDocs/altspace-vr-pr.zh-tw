@@ -1,15 +1,17 @@
 ---
 title: 使用2D 電腦模式的滑鼠/鍵盤來顯示圖片
 description: 瞭解如何在新的和傳統的控制項配置之間切換，以 2D PC 模式將您的虛擬人偶與滑鼠和鍵盤移動。
-ms.date: 02/10/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: 頭像、滑鼠、鍵盤、2d、電腦模式、控制項
-ms.openlocfilehash: 670cd05bdcaa63b3a0c6ff772bef0e9f7d05bb3c3ba795d104bf5d857401a848
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127966"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871223"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>使用2D 電腦模式的滑鼠/鍵盤來顯示圖片
 
@@ -25,15 +27,15 @@ ms.locfileid: "119127966"
 
 * 資料 **指標模式** 可讓您與功能表互動。 當您在視圖的左下方看到 [AltspaceVR 標誌/功能表] 按鈕時，您會知道您處於游標模式：
 
-![具有功能表的資料指標模式](images/avatar-controls-img-01.png)
+    ![具有功能表的資料指標模式](images/avatar-controls-img-01.png)
 
 * 如果您使用膝上型電腦軌跡板，[**外觀] 模式** 可讓您查看。 您可以同時使用面板模式和鍵盤來查看/移動。 如果您的視圖看起來像下面的螢幕擷取畫面，您會知道您處於面板模式：
 
-![面板模式](images/avatar-controls-img-02.png)
+    ![面板模式](images/avatar-controls-img-02.png)
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>鍵盤/滑鼠的新 PC 控制項
 
-![具有輸入對應的鍵盤和滑鼠](images/avatar-controls-img-03.png)
+<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
 
 ## <a name="classic-pc-controls"></a>傳統電腦控制項 
 

@@ -4,12 +4,12 @@ description: 取得逐步指示，說明如何建立新的 AltspaceVR 帳戶，�
 ms.date: 06/25/2021
 ms.topic: article
 keywords: 註冊，帳戶，帳戶建立，帳戶連結，microsoft 帳戶，常見問題，疑難排解，2D 模式，VR 模式，使用者名稱，顯示，名稱
-ms.openlocfilehash: 213fcb788d99942aed0eccfc62b7d47221e93aa435349a12127d6d2e06463bd3
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 5606e850da21582f07bf3b123746ca53bfae1360
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127907"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871204"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>建立和連結您的 AltspaceVR 帳戶
 
@@ -46,6 +46,13 @@ ms.locfileid: "119127907"
 3. 系統會開啟另一個視窗，提示您選取想要使用的 Microsoft 帳戶。 選取個人 Microsoft 帳戶，而不是與工作或學校帳戶相關聯的帳戶。
 4. 當您完成帳戶連結的程式之後，系統會提示您填寫您的顯示名稱和使用者名稱。
 5. 選取 [註冊]。
+
+## <a name="how-to-create-an-account-on-altvrcom"></a>如何在 altvr.com 上建立帳戶
+
+1. 啟動瀏覽器並流覽至登 [入](https://account.altvr.com/users/sign_in) 頁面。
+2. 選取 [使用 Microsoft 帳戶登入]。
+3. 使用您的個人 Microsoft 帳戶登入，或選取 [建立一個！] 建立新的個人 Microsoft 帳戶以與 AltspaceVR 搭配使用。
+4. 當您完成 Microsoft 帳戶登入程式之後，將會建立您的 AltspaceVR 帳戶，而且您會看到一則確認訊息。
 
 ## <a name="linking-your-microsoft-account"></a>連結您的 Microsoft 帳戶
 

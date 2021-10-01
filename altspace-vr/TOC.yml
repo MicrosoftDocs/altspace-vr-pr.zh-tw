@@ -127,44 +127,18 @@
       href: community/terms-of-service.md
     - name: Community 標準
       href: community/community-standards.md
-- name: 疑難排解與支援
+- name: 疑難排解 & 支援常見問題
   items:
-    - name: 常見問題集
-      items:
-        - name: 音訊
-          items:
-            - name: 我的 VR 耳機有內建的麥克風嗎？
-              href: faqs/vr-headset-mic.md
-            - name: '是否有 [點擊對話] 按鈕？'
-              href: faqs/push-to-talk.md
-            - name: 我的音訊不穩定
-              href: faqs/choppy-audio.md
-            - name: 其他使用者無法聽取我的意見
-              href: faqs/other-users-cant-hear-me.md
-        - name: 帳戶 & 的頭像
-          items:
-            - name: Nametags 如何運作？
-              href: faqs/nametags.md
-            - name: 如何? 變更我的帳戶資訊？
-              href: faqs/updating-email-address.md
-            - name: 如何? 取消連結並重新連結我的帳戶嗎？
-              href: faqs/unlinking-and-relinking-accounts.md
-        - name: AltspaceVR 應用程式
-          items:
-            - name: 如何? 尋找 AltspaceVR 應用程式版本？
-              href: faqs/app-version.md
-            - name: 如何? 上傳用戶端記錄？
-              href: faqs/uploading-client-logs.md
-            - name: 我無法啟動 AltspaceVR
-              href: faqs/unable-to-launch.md
-        - name: 健全狀況 & 安全性
-          items:
-            - name: AltspaceVR 會導致移動 sickness 嗎？
-              href: faqs/motion-sickness.md
-        - name: 事件
-          items:
-            - name: 什麼是 FrontRow 事件？
-              href: faqs/front-row-events.md
+    - name: 音訊問題
+      href: faqs/audio-faq.md
+    - name: 帳戶 & 的頭像
+      href: faqs/account-avatar-faq.md
+    - name: AltspaceVR 應用程式
+      href: faqs/altspacevr-app-faq.md
+    - name: 健全狀況 & 安全性
+      href: faqs/health-safety-faq.md
+    - name: FrontRow 事件
+      href: faqs/front-row-events.md
 - name: 與我們連絡
   items:
     - name: 取得說明

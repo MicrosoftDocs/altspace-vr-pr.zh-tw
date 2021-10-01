@@ -4,12 +4,12 @@ description: 深入瞭解 front row 事件如何讓您的使用者在 AltspaceVR
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 常見問題
-ms.openlocfilehash: 3c2374662017377f8d50c3261efd2d6c5ce1a619dee02cdc9ad16d6e48436694
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 86ba4e836c55648d5434de7764c09f8ef7646d2f
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119128168"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310494"
 ---
 # <a name="what-are-frontrow-events"></a>什麼是 FrontRow 事件？ 
 
@@ -26,3 +26,10 @@ Front Row 活動可讓任意數量的受眾成員參與我們最興奮和有趣�
 第一個階段的人才是要查看使用者填入 Front Row 事件的單一實例，不過它們可以看到使用者在事件的所有實例上產生的 emoji。
 
 當使用者選取其 [舉手] 按鈕時，事件主機可以使用我們的主機工具，以無線方式啟動該人員。 如此一來，就可以在所有實例上看到和聽取觀眾的成員，就像是執行者一樣。 如此一來，使用者就可以參與「節目」，並在問&他們所在任何房間的研討會中與配音員互動！
+
+## <a name="support"></a>支援
+
+AltspaceVR 團隊的問題或意見反應？ 
+
+> [!div class="nextstepaction"]
+> [按一下這裡以傳送支援要求](https://help.altvr.com/hc/requests/new)

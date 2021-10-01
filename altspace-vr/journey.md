@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/26/2021
 ms.topic: article
 keywords: AltspaceVR，virtual 聚會，虛擬實境聚會，VR 聚會，虛擬實境平臺，VR 平臺，沉浸式虛擬事件，沉浸式的 VR 事件，虛擬實境事件，VR 事件，VR 全球大樓，VR 事件裝載，社交虛擬實境，虛擬實境事件裝載
-ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
-ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
+ms.openlocfilehash: dc88f0ff8664b062a8be9f5cbf79e7ddd3f4872a
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122979025"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310463"
 ---
 # <a name="exploring-altspacevr"></a>探索 AltspaceVR
 
@@ -48,7 +48,7 @@ AltspaceVR 是即時混合現實體驗的領先平臺。 AltspaceVR 可讓演出
 |  Checkpoint  |  結果  |
 | --- | --- |
 | [探索標題畫面](community/exploring-title-screen.md) | 從標題畫面流覽 AltspaceVR 平臺以登入、輸入事件，或自訂您的頭像 |
-| [社交功能 & nametags](faqs/nametags.md) | 瞭解 nametags 和社交功能在 AltspaceVR 中的運作方式 |
+| [社交功能 & nametags](faqs/account-avatar-faq.md#how-do-nametags-work) | 瞭解 nametags 和社交功能在 AltspaceVR 中的運作方式 |
 
 ## <a name="4-creating--hosting-events"></a>4. 建立 & 裝載事件
 

@@ -1,17 +1,17 @@
 ---
 title: 使用2D 電腦模式的滑鼠/鍵盤來顯示圖片
 description: 瞭解如何在新的和傳統的控制項配置之間切換，以 2D PC 模式將您的虛擬人偶與滑鼠和鍵盤移動。
-ms.date: 9/14/2021
+ms.date: 10/4/2021
 author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: 頭像、滑鼠、鍵盤、2d、電腦模式、控制項
-ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: bacaf5e267ab28cc410b5659a34273b12ad36be5
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871223"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446293"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>使用2D 電腦模式的滑鼠/鍵盤來顯示圖片
 
@@ -35,7 +35,7 @@ ms.locfileid: "127871223"
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>鍵盤/滑鼠的新 PC 控制項
 
-<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
+![具有輸入對應的鍵盤和滑鼠](images/keyboard-mouse-controls.svg)
 
 ## <a name="classic-pc-controls"></a>傳統電腦控制項 
 

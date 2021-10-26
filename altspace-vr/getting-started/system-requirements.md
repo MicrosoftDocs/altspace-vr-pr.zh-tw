@@ -4,16 +4,16 @@ description: 隨時掌握最新的 AltspaceVR 系統需求，其位於前端掛�
 ms.date: 06/03/2021
 ms.topic: article
 keywords: 需求、前端掛接的顯示器、oculus rift、htc vive、windows 2d 模式
-ms.openlocfilehash: 7783d2c6e1acbbc48c4b0ca63d26c58c107f48559fc9d0fe7d88156a1d6762f9
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1a43574c0c88dbceea77cd9191797e7d9f6c96f7
+ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127550"
+ms.lasthandoff: 10/25/2021
+ms.locfileid: "130298763"
 ---
 # <a name="minimum-system-requirements"></a>最低系統需求
 
-建議您在下方取得最基本的系統設定檔，以取得完整的 AltspaceVR 體驗。 AltspaceVR 目前支援下列前端裝載的顯示器：
+建議您在下方取得最基本的系統設定檔，以取得完整的 AltspaceVR 體驗。 AltspaceVR 支援下列前端掛載顯示器：
 
 * Oculus Rift CV1
 * HTC Vive
@@ -54,3 +54,5 @@ ms.locfileid: "119127550"
 
 > [!NOTE]
 > 具有許多視頻資料流程的事件可能需要更多的頻寬。
+
+<!-- test1 101921 -->

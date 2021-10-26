@@ -1,15 +1,15 @@
 ---
 title: 使用群組功能建立私用事件
 description: 瞭解如何建立私人的 VR 空間，以使用「群組事件」功能來開啟核准的來賓清單。
-ms.date: 03/11/2021
+ms.date: 10/24/2021
 ms.topic: article
 keywords: 群組，私用事件，patreon，eventbrite，疑難排解
-ms.openlocfilehash: 0599792b6dd5ea73a3f4c15b00cdee36dea5ceaab3fc646ef0f72e965e0cbad2
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: dd536a2a8ef075ee9bc47ec065c04d0ab2c6d979
+ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126558"
+ms.lasthandoff: 10/25/2021
+ms.locfileid: "130298848"
 ---
 # <a name="using-the-groups-feature-to-create-private-events"></a>使用群組功能建立私用事件
 
@@ -69,9 +69,9 @@ ms.locfileid: "119126558"
 
 ![已反白顯示 [我的全球] 面板的 AltspaceVR 應用程式](images/group-features-img-07.png)
 
-## <a name="how-to-use-patreon-and-eventbrite-to-host-a-ticketed-vr-event"></a>如何使用 Patreon 和 Eventbrite 來裝載 Ticketed VR 事件： 
+## <a name="how-to-add-an-email-list-to-a-group"></a>如何將電子郵件清單新增至群組 
 
-您可以使用 Patreon，Eventbrite 在 Altspace 中建立 ticketed 事件。您必須建立使用者的電子郵件地址清單，或從您的付款平臺匯出該資訊。  
+如果您有大型群組，且需要大量新增它們，您必須先為所有與群組相關聯的電子郵件地址建立清單。 請記住，如果他們使用 Microsoft 帳戶連結來註冊，您將需要其 Microsoft 帳戶位址才能讓此步驟運作。
 
 ### <a name="creating-a-list"></a>建立清單
 
@@ -87,7 +87,7 @@ ms.locfileid: "119126558"
 
 ### <a name="importing-a-list"></a>匯入清單
 
-Patreon 和 Eventbrite 等平臺可讓您匯出具有專用「電子郵件」資料行的 * .csv 檔案， (逗點分隔值) 。您可以選取此資料行來使用。當您使用此功能之後，這些步驟大多相同，它們是：  
+某些平臺可能可讓您匯出 * .csv 檔案， (具有專用「電子郵件」資料行的逗號分隔值) 。您可以選取此資料行來使用。當您使用此功能之後，這些步驟大多相同，它們是：  
 
 1. 建立或編輯您的群組。  
 2. 尋找 [ **成員電子郵件** ] 欄位。  
@@ -105,7 +105,7 @@ Patreon 和 Eventbrite 等平臺可讓您匯出具有專用「電子郵件」資
 
 * **名稱**  –所有成員都可以看見的組名。   
 * **描述**  –用來描述群組用途的欄位。 所有成員都可以看見。
-* **使用者**  –此欄位可讓您將群組的群組成員列為使用者名稱或電子郵件地址，只要它是每行一列即可。這是定義群組成員的一種方式。 **不過，對於使用外部付款平臺（例如 Patreon）的人員，請使用此頁面進一步說明的「電子郵件允許清單」欄位。**
+* **使用者**  –此欄位可讓您將群組的群組成員列為使用者名稱或電子郵件地址，只要它是每行一列即可。這是定義群組成員的一種方式。
     * 填寫每一行的使用者名稱或電子郵件。  
     * 若要在 AltspaceVR 中尋找使用者名稱，請讓使用者開啟 [主功能表]，並移至 "Me" 區段。它是以括弧括住的名稱。  
     * 若要尋找網站上的使用者名稱，請讓使用者從 [更 > 的設定檔] 選項中，移至 [設定檔]。 您可以在 [設定檔] 頁面的左側資料行中找到它。  
@@ -129,12 +129,12 @@ Patreon 和 Eventbrite 等平臺可讓您匯出具有專用「電子郵件」資
 > 這項功能處於 Beta 階段。 我們鼓勵群組在 [環境選取] 對話方塊中使用預先存在的領域。
 
 * "Commons" 一字一律會以後綴的形式出現在任何群組的 hangout 世界中。  
-* **成員電子郵件**  –此欄位可讓您依與 AltspaceVR 帳戶相關聯的電子郵件列出使用者。 **使用此清單會覆寫上面所述的「使用者」清單。**  這是管理群組成員資格的建議方式，尤其是使用外部付款平臺的成員資格。  
-    * 填寫此欄位時，請確定您的 AltspaceVR 帳戶相關電子郵件列于其中，否則您可能會失去群組的存取權。  
+* **成員電子郵件**  –此欄位可讓您依與 AltspaceVR 帳戶相關聯的電子郵件列出使用者。 **使用此清單會覆寫上面所述的「使用者」清單。**  這是管理群組成員資格的建議方式。  
+    * 填寫此欄位時，請確定您的 AltspaceVR 帳戶相關電子郵件列于其中，否則您可能會失去群組的存取權。 如果您已連結您的帳戶與 Microsoft 帳戶連結，則必須確定所使用的電子郵件地址是您的 Microsoft 帳戶位址。  
     * 將位址貼入欄位時，請確定每行都有一封電子郵件。  
     * 此清單接受不具有效 AltspaceVR 帳戶的電子郵件。AltspaceVR 使用者名稱經過驗證，電子郵件地址不是。 不過，當使用該電子郵件建立 AltspaceVR 帳戶時，與其相關聯的使用者將會取得該群組的存取權。  
     * 您可以從 * .csv 檔案匯入清單。 選取 [選擇檔案] 選項，然後選取您的檔案。
-    * 我們建議使用成員電子郵件來管理從付款平臺（例如 Patreon 或 Eventbrite）建立的群組，因為它是更具決定性的方式來協調您的成員。請注意，群組系統管理員需要通知其使用者/成員，他們必須使用在付款平臺上所用的相同電子郵件地址來建立 AltspaceVR 帳戶。  
+    * 建議您使用成員電子郵件做為管理大型群組的方式，因為這是更具決定性的方式來協調您的成員。請注意，群組系統管理員需要通知其使用者/成員，他們必須使用在付款平臺上所用的相同電子郵件地址來建立 AltspaceVR 帳戶。  
     * 請參閱將使用者匯入群組一節，以瞭解如何取得使用者清單的指示。   
 * **啟用自動匯入**  –自動匯入是在電子郵件允許清單上執行的週期性處理常式。 它會協調電子郵件現在是否具有與其相關聯的有效 AltspaceVR 帳戶並授與存取權。   
     * 如果您是使用 csv 檔案上傳，建議您啟用它。
@@ -192,29 +192,5 @@ Patreon 和 Eventbrite 等平臺可讓您匯出具有專用「電子郵件」資
 
 這是已排程事件的群組頁面。 針對群組所建立的事件將會出現在這裡。
 
-### <a name="i-want-to-use-eventbrite-and-patreon-but-i-dont-see-where-to-get-the-email-addresses-for-my-groups"></a>我想要使用 Eventbrite 和 Patreon，但我看不到哪裡可以取得我的群組的電子郵件地址
-
-**Patreon ** 
-
-[Patreon](https://www.patreon.com/)  是一種成員資格平臺，創意連結可以在其中建立其內容的訂用帳戶方案。雖然 Patreon 有多種匯出誓言資料的方式，但我們將著重于 CSV 方向。 您可以在 [這裡](https://www.patreon.com/portal/how-to/export-pledge-data)找到這些資訊的說明頁面，   也可以依照下列指示進行操作：  
-
-1. 在 Patreon 網站左邊的 creator 提要欄位中尋找 "圖書館" 欄位。  
-2. 將其展開以尋找「關聯性管理員」並加以選取。  
-3. 頁面頂端的 [下載] 按鈕稱為 CSV。 加以選取。  
-4. 它會顯示 windows 對話方塊欄位來儲存檔案。將其儲存。  
-5. 遵循 [AltspaceVR 群組] 頁面中的 [匯入指示]，以使用此檔案。  
-
-**Eventbrite ** 
-
-[Eventbrite](https://www.eventbrite.com)  是票證網站，可讓使用者管理和建立事件的票證。就像 Patreon 一樣，有許多方式可以產生出席者電子郵件清單。我們將更專注于 CSV 方向。 您可以在 [這裡](https://www.eventbrite.com/support/articles/en_US/How_To/how-to-edit-and-export-an-attendee-summary-report?lg=en_US)找到這項資訊的說明頁面，   也可以依照下列指示來解壓縮此資料。  
-
-1. 從您的 [設定檔] 功能表中，尋找 [管理事件] 功能表。 
-2. 選取您要取得出席者電子郵件清單的事件。 
-3. 在事件的儀表板中，尋找稱為「一般報表」的類別。 
-4. 您也可以在左側的資料行功能表中的 [分析-> 事件報表] 底下找到 [一般報表]   
-5. 選取 [出席者摘要]。 
-6. 尋找 [報表結果] 區段。 
-7. 選取 [CSV] 按鈕以下載檔案。 
-
 > [!IMPORTANT]
-> 這是搶鮮版（Beta）功能。 AltspaceVR 是免費的經驗，對於可能會導致出席者無法存取 ticketed 事件的體驗可能會造成的任何技術問題概不負責。
+> 這是搶鮮版（Beta）功能。 AltspaceVR 是免費的經驗，對於可能會導致出席者無法存取私用事件的體驗，不負責任何可能發生的技術問題。

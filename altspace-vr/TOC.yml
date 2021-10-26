@@ -103,8 +103,8 @@
           items:
             - name: 'Unity 上載工具 (的世界建築工具組) '
               href: world-building/world-building-toolkit-getting-started.md
-            - name: 將內容更新至最新的 Unity 版本
-              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: 升級舊的 Unity 專案
+              href: world-building/upgrading-old-unity-projects.md
             - name: 行動效能優化指南
               href: world-building/unity-mobile-performance-guide.md
             - name: 使用混合現實擴充功能

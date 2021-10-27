@@ -4,12 +4,12 @@ description: 瞭解如何建立私人的 VR 空間，以使用「群組事件」
 ms.date: 10/24/2021
 ms.topic: article
 keywords: 群組，私用事件，patreon，eventbrite，疑難排解
-ms.openlocfilehash: dd536a2a8ef075ee9bc47ec065c04d0ab2c6d979
-ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
+ms.openlocfilehash: 92a05d6b0ee6f1212918dead7630cb917bf6972c
+ms.sourcegitcommit: 442497136b369a9789be161eae09d0e662094a85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2021
-ms.locfileid: "130298848"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "130325890"
 ---
 # <a name="using-the-groups-feature-to-create-private-events"></a>使用群組功能建立私用事件
 

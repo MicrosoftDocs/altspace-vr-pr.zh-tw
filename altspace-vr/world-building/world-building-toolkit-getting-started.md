@@ -1,16 +1,15 @@
 ---
 title: Altspace 上載者簡介
 description: 瞭解如何使用 Unity 場景範本搭配 Altspace 上傳程式來設定和上傳您的 AltspaceVR 領域。
-ms.date: 09/29/2021
+ms.date: 10/29/2021
 ms.author: v-vtieto
 ms.topic: article
-keywords: 工具組、Altspace、上載者
-ms.openlocfilehash: 8d71551fe552159c0078105307802774f44c0d47
-ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
+ms.openlocfilehash: 6d28b3efe75d589a0a09d4969add5d043a3116d0
+ms.sourcegitcommit: 20605c50a93852f93a3464c5c339f6a7da67a047
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2021
-ms.locfileid: "130298787"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "131278957"
 ---
 # <a name="introducing-the-altspace-uploader"></a>Altspace 上載者簡介
 
@@ -26,11 +25,11 @@ ms.locfileid: "130298787"
 
 1. 加入 [官方 AltspaceVR 但是](https://discordapp.com/invite/altspacevr) ，並造訪 #world 大樓頻道。 朋友不讓朋友單獨建立世界。
 2. 閱讀我們的 [世界大樓開始使用指南](world-building-getting-started.md) 以瞭解基本概念
-3. [安裝 Unity 中樞](https://unity3d.com/get-unity/download) 和 **unity 2020.3.9**。 除非您完全符合此版本，否則上載者將無法運作。 如果您沒有可用的 Unity 帳戶，您將需要一個帳戶。 在安裝期間，請選擇 [ **個人** 版 (]，因為這樣做很有趣！ ) ，請務必執行下列動作：
+3. [安裝 Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) 並安裝 [**2020.3.18 f1**](https://unity3d.com/unity/whats-new/2020.3.18)。 除非您完全符合此版本，否則上載者將無法運作。 如果您沒有帳戶，您將需要免費的 Unity 帳戶，並選擇 [ **個人** ]，因為這樣做可讓您享受更多樂趣！ 在安裝期間，請確定勾選 [ **Android 組建** ] 選項，並停用自動更新。
     * 包含 **Android 組建支援** 模組。
     * 在 Windows 上，包含 **(Mono) 模組的 Mac 組建支援**。
     * 在 Mac 上，包含 **(Mono) 模組的 Windows 組建支援**。
-4. [下載 AltspaceVR 上載者](https://aka.ms/AvrUrpUploader)
+4. [下載最新的 Unity 上載者](https://altvr.com/download-latest-unity-uploader)
 5. 在我們的網站上[建立範本](https://account.altvr.com/space_templates/new)。 將它命名 **Hello World 範本**。
 6. [建立世界](https://account.altvr.com/worlds/my) 並 **Hello World** 命名。 選取 **Hello World 範本** 作為範本。
 
